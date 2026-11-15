@@ -51,7 +51,7 @@ funnel <- live |>
 
 p_funnel <- ggplot(funnel, aes(gw, fct_rev(stage))) +
   geom_col(fill = green) +
-  geom_text(aes(label = paste0(round(gw, 1), " GW | ", comma(projects), " projects")),
+  geom_text(aes(label = paste0(number(gw, accuracy = 0.1), " GW | ", comma(projects), " projects")),
             hjust = -0.05, size = 3.2) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.4))) +
   labs(title = "UK battery storage pipeline",
@@ -69,13 +69,14 @@ funnel_both <- bind_rows(
     summarise(projects = n(), gw = sum(capacity_mw) / 1000) |>
     mutate(version = "Adjusted with NESO/DNO connection data")
 ) |>
-  mutate(version = fct_inorder(version))
+  mutate(version = fct_rev(fct_inorder(version)))
 
 p_funnel_both <- ggplot(funnel_both, aes(gw, fct_rev(stage), fill = version)) +
   geom_col(position = position_dodge(width = 0.8), width = 0.75) +
-  geom_text(aes(label = paste0(round(gw, 1), " GW")),
+  geom_text(aes(label = paste0(number(gw, accuracy = 0.1), " GW")),
             position = position_dodge(width = 0.8), hjust = -0.1, size = 3) +
-  scale_fill_manual(values = c("#7fbfa5", green)) +
+  scale_fill_manual(values = c(green, "#7fbfa5")) +
+  guides(fill = guide_legend(reverse = TRUE)) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.15))) +
   labs(title = "UK battery storage pipeline: REPD vs connection data",
        subtitle = paste(length(confirmed), "projects moved to operational after checking NESO TEC and DNO registers"),
@@ -134,10 +135,10 @@ size_stats <- bats |>
   )
 
 p_size <- ggplot(size_stats, aes(year)) +
+  geom_hline(yintercept = 50, colour = "grey50", linetype = "dotted") +
   geom_ribbon(aes(ymin = p25, ymax = p75), fill = green, alpha = 0.2) +
   geom_line(aes(y = median), colour = green, linewidth = 1) +
   geom_line(aes(y = p90), colour = green, linetype = "dashed") +
-  geom_hline(yintercept = 50, colour = "grey50", linetype = "dotted") +
   annotate("text", x = 2016.2, y = 58, label = "50 MW: former consent threshold (removed 2020)",
            hjust = 0, vjust = 0, size = 2.8, colour = "grey40") +
   scale_x_continuous(breaks = 2016:2025) +
