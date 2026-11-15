@@ -2,6 +2,24 @@ library(tidyverse)
 library(here)
 library(scales)
 
+clean_developer <- function(name) {
+  name <- name |>
+    str_to_lower() |>
+    str_remove_all("\\b(ltd|limited|plc|llp|uk)\\b|[.,]") |>
+    str_squish() |>
+    str_to_title()
+
+  case_when(
+    str_detect(name, "^West Burton")   ~ "West Burton Energy",
+    str_detect(name, "^Gresham House") ~ "Gresham House",
+    str_detect(name, "^Alcemi")        ~ "Alcemi",
+    str_detect(name, "^Sandbrook")     ~ "Sandbrook Capital",
+    str_detect(name, "^Natpower")      ~ "NatPower",
+    str_detect(name, "^Newton Energ")  ~ "Newton Energy",
+    TRUE                              ~ name
+  )
+}
+
 bats <- read_rds(here("2.DataClean", "bats.rds"))
 dir.create(here("3.DataAnalysis", "plots"), showWarnings = FALSE)
 
@@ -36,7 +54,10 @@ by_region <- live |>
 
 p_region <- ggplot(by_region, aes(gw, fct_reorder(region, gw, sum), fill = fct_rev(stage))) +
   geom_col() +
-  scale_fill_brewer(palette = "Greens", direction = -1) +
+  scale_fill_manual(values = c("5. Operational"        = "#1b5e45",
+                               "4. Under construction" = "#2a7f62",
+                               "3. Consented"          = "#7fbfa5",
+                               "2. In planning"        = "#cfe8dd")) +
   labs(title = "Battery pipeline by region",
        x = "Capacity (GW)", y = NULL, fill = NULL, caption = source_note) +
   theme_minimal() +
@@ -52,7 +73,9 @@ segment_counts <- bats |>
 
 micro_devs <- bats |>
   filter(segment == "Micro (<1 MW)") |>
-  count(operator_or_applicant, sort = TRUE) |>
+  mutate(developer = clean_developer(operator_or_applicant)) |>
+  filter(!is.na(developer), developer != "") |>
+  count(developer, sort = TRUE) |>
   head(5)
 
 size_stats <- bats |>
@@ -71,8 +94,8 @@ p_size <- ggplot(size_stats, aes(year)) +
   geom_line(aes(y = median), colour = green, linewidth = 1) +
   geom_line(aes(y = p90), colour = green, linetype = "dashed") +
   geom_hline(yintercept = 50, colour = "grey50", linetype = "dotted") +
-  annotate("text", x = 2016.2, y = 58, label = "50 MW planning threshold",
-           hjust = 0, size = 3, colour = "grey40") +
+  annotate("text", x = 2016.2, y = 58, label = "50 MW: former consent threshold (removed 2020)",
+           hjust = 0, vjust = 0, size = 2.8, colour = "grey40") +
   scale_x_continuous(breaks = 2016:2025) +
   labs(
     title    = "Grid-scale battery projects: bigger at the top end",
@@ -80,6 +103,7 @@ p_size <- ggplot(size_stats, aes(year)) +
     x = "Application year", y = "Capacity (MW)",
     caption  = paste("Source: DESNZ REPD. Grid-scale projects (1 MW+) only; excludes micro-batteries",
                      "such as AMP Clean Energy's 0.2 MW Battery Box sites and records without capacity.",
+                     "Batteries over 50 MW needed national consent in England and Wales until July 2020.",
                      sep = "\n")
   ) +
   theme_minimal() +
@@ -116,20 +140,7 @@ consent_trend <- timeline_data |>
   summarise(median_months = median(months_to_consent), projects = n())
 
 top_devs <- live |>
-  mutate(
-    developer = operator_or_applicant |>
-      str_to_lower() |>
-      str_remove_all("\\b(ltd|limited|plc|llp|uk)\\b|[.,]") |>
-      str_squish() |>
-      str_to_title(),
-    developer = case_when(
-      str_detect(developer, "^West Burton")   ~ "West Burton Energy",
-      str_detect(developer, "^Gresham House") ~ "Gresham House",
-      str_detect(developer, "^Alcemi")        ~ "Alcemi",
-      str_detect(developer, "^Sandbrook")     ~ "Sandbrook Capital",
-      TRUE                                    ~ developer
-    )
-  ) |>
+  mutate(developer = clean_developer(operator_or_applicant)) |>
   filter(!is.na(developer), developer != "") |>
   group_by(developer) |>
   summarise(projects = n(), gw = sum(capacity_mw) / 1000) |>

@@ -1,0 +1,14 @@
+source,measure,gw,note
+REPD,Operational,4.95,177 projects
+REPD,Operational + under construction 18+ months,11.14,upper bound if every long-running build is finished
+REPD,Planning + consented + under construction,120.74,1895 projects
+TEC,Standalone batteries connected (transmission),4.52,66 projects
+TEC,Hybrid sites with storage connected (whole-site MW),7.5,can't split battery from solar/wind; not added to totals
+TEC,Standalone batteries in the queue (all statuses),179.69,compare with REPD planning + consented + under construction
+ECR,Standalone batteries connected (distribution),4.07,229 sites
+ECR,Hybrid sites with storage connected (whole-site MW),0.78,can't split battery from solar/wind; not added to totals
+TEC + ECR,Standalone batteries connected (GB total),8.59,best estimate of what's actually connected
+Capacity Market,Batteries contracted for delivery year 2026,3.7,includes new-build not yet running; excludes sites without contracts
+Elexon,Battery-named BM units (generation capacity),5.55,"108 units; lower bound, as many batteries aren't named as such"
+REPD vs ECR,Not operational in REPD but connected battery within 1 km,3.25,132 projects; transmission sites not covered
+REPD vs ECR,Connected ECR batteries with no REPD battery nearby,0.67,48 sites; hybrids may sit in REPD under solar/wind

@@ -1,0 +1,1381 @@
+id,name,status,plant,battery_only,mw_connected,mw_total
+a0l4L0000005iM3QAI,Tollgate 49.5MW BESS,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iM7QAI,Feckenham Energy Park,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iM8QAI,Scotsburn Road,Scoping,Energy Storage System,TRUE,0,170
+a0l4L0000005iMFQAY,Norrington Gate,Consents Approved,Energy Storage System,TRUE,0,150
+a0l4L0000005iMIQAY,Whiteleigh Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0l4L0000005iMMQAY,Battery Point BESS,Scoping,Energy Storage System,TRUE,0,25
+a0l4L0000005iMOQAY,Holdsworth Road,Consents Approved,Energy Storage System,TRUE,0,500
+a0l4L0000005iMPQAY,Didcot Road,Consents Approved,Energy Storage System,TRUE,0,300
+a0l4L0000005iMVQAY,Outh Muir Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,60
+a0l4L0000005iMYQAY,Ninfield Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iNOQAY,Thorpe Marsh Energy Park,Under Construction/Commissioning,Energy Storage System,TRUE,0,1400
+a0l4L0000005iNTQAY,Zenobe Blackhillock 300 MW,Built,Energy Storage System,TRUE,200,300
+a0l4L0000005iNVQAY,Ironbridge,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iNWQAY,Rugeley,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iNYQAY,Flash Solar Farm,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l4L0000005iNgQAI,Hunterston Energy Storage Facility,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005iNjQAI,Allt an Tuir Renewable Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,50
+a0l4L0000005iNpQAI,Exeter BESS and PV (Post-Interactivity Revised Offer),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005iNsQAI,Fiddes Battery Storage,Scoping,Energy Storage System,TRUE,0,30
+a0l4L0000005iORQAY,Kincardine Battery Storage Facility,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005iOgQAI,Wymondley,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iOiQAI,Bloxwich,Built,Energy Storage System,TRUE,41,41
+a0l4L0000005iOjQAI,Jamesfield Farm Battery Storage,Built,Energy Storage System,TRUE,30,30
+a0l4L0000005iOkQAI,Jamesfield Farm Phase 2 Battery Storage,Built,Energy Storage System,TRUE,19,19
+a0l4L0000005iOrQAI,Thornton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iOtQAI,Gammidge PV & BESS Park,Scoping,Energy Storage System,TRUE,0,40.9
+a0l4L0000005iOwQAI,Feckenham,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iOxQAI,Hutton Battery Storage,Built,Energy Storage System,TRUE,10,10
+a0l4L0000005iP1QAI,Melksham,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iP9QAI,Kincardine Energy Storage Facility,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005iPCQAY,Bodelwyddan BESS and PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,110
+a0l4L0000005iPGQAY,Montreathmont Moor Forest,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,34.379999999999995
+a0l4L0000005iPHQAY,Springwell,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1600
+a0l4L0000005iPKQAY,Clay Tye Farm Phase 2,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iPLQAY,Lovedean Greener Grid Park,Scoping,Energy Storage System;Reactive Compensation,FALSE,0,49.9
+a0l4L0000005iPMQAY,New Deer BESS Station,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iPNQAY,Clay Tye Farm Phase 1,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iPRQAY,Ouse Energy Storage,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005iPYQAY,Fife Energy Centre,Scoping,Energy Storage System,TRUE,0,100
+a0l4L0000005iPZQAY,Kirkby Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iPxQAI,Coupar Angus Battery,Consents Approved,Energy Storage System,TRUE,0,40
+a0l4L0000005iQ8QAI,Roaring Hill Energy Storage Facility,Built,Energy Storage System,TRUE,49.99,49.99
+a0l4L0000005iQAQAY,Clayhill Farm,Built,Energy Storage System,TRUE,40,40
+a0l4L0000005iQBQAY,Holes Bay,Built,Energy Storage System,TRUE,7.5,7.5
+a0l4L0000005iQLQAY,Bradford West 100MW,Consents Approved,Energy Storage System,TRUE,0,100
+a0l4L0000005iQPQAY,Benthead Solar,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,63
+a0l4L0000005iQRQAY,Sunbury BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iQSQAY,Wyseby Hill Energy Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,750
+a0l4L0000005iQUQAY,Hunningley Stairfoot BESS,Built,Energy Storage System,TRUE,40,40
+a0l4L0000005iQVQAY,Fife Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iQXQAY,Keithick 16 Solar & BESS,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,16
+a0l4L0000005iQbQAI,Old Flatts Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1500
+a0l4L0000005iQyQAI,Little Raith BES,Built,Energy Storage System,TRUE,50,50
+a0l4L0000005iRPQAY,Daines Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l4L0000005iRQQAY,Tormsdale Windfarm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,70
+a0l4L0000005iRRQAY,Pillswood BESS Phase 1,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iRSQAY,Pillswood BESS Phase 2,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iRTQAY,Bushbury Green Energy Centre,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l4L0000005iRWQAY,Leithenwater Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,72.6
+a0l4L0000005iRcQAI,Field Farm,Scoping,Energy Storage System,TRUE,0,249.9
+a0l4L0000005iRyQAI,Tarland Battery Storage System,Scoping,Energy Storage System,TRUE,0,20
+a0l4L0000005iS1QAI,Roosecote,Built,Energy Storage System,TRUE,49,49
+a0l4L0000005iS4QAI,Burbo Bank Offshore Wind Farm,Built,Energy Storage System;Wind Offshore,FALSE,90,90
+a0l4L0000005iSKQAY,Farnham BESS,Built,Energy Storage System,TRUE,20,20
+a0l4L0000005iSQQAY,Penwortham (Redscar),Built,Energy Storage System,TRUE,40,40
+a0l4L0000005iSrQAI,Frodsham Solar Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l4L0000005iSsQAI,Meetlaw BESS,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iSuQAI,Overhill BESS,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iSwQAI,Arbroath Battery Substation,Consents Approved,Energy Storage System,TRUE,0,35
+a0l4L0000005iT4QAI,Kaimes Energy Park,Scoping,Demand;Energy Storage System,FALSE,0,51
+a0l4L0000005iTbQAI,Broadditch BESS,Built,Energy Storage System,TRUE,11.58,11.58
+a0l4L0000005iTkQAI,Steel Point (aka Project Lithium),Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iTpQAI,Balbougie Energy Centre,Consents Approved,Energy Storage System,TRUE,0,42
+a0l4L0000005iTtQAI,Almondell Lodge BESS & Solar Development,Built,Energy Storage System,TRUE,50,50
+a0l4L0000005iTwQAI,Glenrothes BESS,Consents Approved,Energy Storage System,TRUE,0,46
+a0l4L0000005iU1QAI,Tealing Solar & Storage,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,80
+a0l4L0000005iU3QAI,Keithick Estate,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.99
+a0l4L0000005iU5QAI,Keith Battery Storage,Consents Approved,Energy Storage System,TRUE,0,39
+a0l4L0000005iU7QAI,Cellarhead Home Farm,Scoping,Energy Storage System,TRUE,0,280
+a0l4L0000005iUAQAY,Drum Farm Energy Storage Facility,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iUDQAY,Hawkers Hill Energy Park,Built,Energy Storage System,TRUE,20,20
+a0l4L0000005iUIQAY,Chapel Farm Battery Storage Project,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iUNQAY,CONTEGO  Battery Storage Project,Built,Energy Storage System,TRUE,35.8,35.8
+a0l4L0000005iURQAY,Scottish Water Bonnybridge STW 60MW BESS,Scoping,Energy Storage System,TRUE,0,60
+a0l4L0000005iUUQAY,Drumlithie Battery Storage,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iUVQAY,Ardoch Farm Battery Storage,Scoping,Energy Storage System,TRUE,0,27
+a0l4L0000005iUaQAI,Kincraig Energy Centre,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,20.62
+a0l4L0000005iUbQAI,Lincomb Farm 120MW BESS Scheme,Scoping,Energy Storage System,TRUE,0,120
+a0l4L0000005iUdQAI,Dolphingstone Farm,Consents Approved,Energy Storage System,TRUE,0,63
+a0l4L0000005iUeQAI,Craig Nab Wind Energy Hub,Scoping,Energy Storage System;Wind Onshore,FALSE,0,36
+a0l4L0000005iUgQAI,Drumfad Battery Storage System,Consents Approved,Energy Storage System,TRUE,0,39.9
+a0l4L0000005iWXQAY,Touch Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,60
+a0l4L0000005iWYQAY,Bankside BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,43
+a0l4L0000005iWeQAI,Brook Farm BESS,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iWfQAI,Scottish Water Linwood STW 60MW BESS,Scoping,Energy Storage System,TRUE,0,60
+a0l4L0000005iWgQAI,Littlebrook BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005iWiQAI,Scottish Water Laigh Park STW,Scoping,Energy Storage System,TRUE,0,50
+a0l4L0000005iWjQAI,Rothienorman 50MW BESS,Consents Approved,Energy Storage System,TRUE,0,50
+a0l4L0000005iWkQAI,Stanley Water WTW BESS,Scoping,Energy Storage System,TRUE,0,60
+a0l4L0000005iWqQAI,Well Street Paisley,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iWtQAI,Drumore Farm,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iWwQAI,Pitkerro Road,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iX2QAI,Barge Way 120MW BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0l4L0000005iX5QAI,Patch Elm Solar Substation,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l4L0000005iXEQAY,Hookers Farm BESS,Consents Approved,Energy Storage System,TRUE,0,250
+a0l4L0000005iXNQAY,Norwich 100MW BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0l4L0000005iXRQAY,Hywind Wind Farm,Built,Energy Storage System;Wind Onshore,FALSE,30,30
+a0l4L0000005iXSQAY,Lister Drive,Built,Energy Storage System,TRUE,20,20
+a0l4L0000005iXUQAY,Dollymans Storage,Scoping,Energy Storage System,TRUE,0,99.8
+a0l4L0000005iXcQAI,Bumpers Farm BESS phase 1,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iXdQAI,Bumpers Farm BESS phase 2,Built,Energy Storage System,TRUE,49.5,49.5
+a0l4L0000005iXhQAI,Bilbo Farm,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,67.1
+a0l4L0000005iXiQAI,Holmston Farm Battery Energy Storage System,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iXjQAI,Temple Oaks Renewable Energy Park,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l4L0000005iXkQAI,Weirs Drove,Built,Energy Storage System,TRUE,49.9,79.9
+a0l4L0000005iXoQAI,Knockkippen Energy Park,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,60
+a0l4L0000005iXsQAI,Inchbean  Energy Park,Consents Approved,Energy Storage System,TRUE,0,60
+a0l4L0000005iXvQAI,Greystone Knowe Windfarm,Scoping,Demand;Energy Storage System;Wind Onshore,FALSE,0,67.2
+a0l4L0000005iXwQAI,Cuxton 49.5MW BESS,Consents Approved,Energy Storage System,TRUE,0,49.5
+a0l4L0000005iXzQAI,Corshellach Battery Energy Storage System,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iY3QAI,Shaftesbury Energy Park,Consents Approved,Energy Storage System,TRUE,0,99.9
+a0l4L0000005iYCQAY,West Burton,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,120
+a0l4L0000005iYJQAY,Penketh Hall Farm,Scoping,Energy Storage System,TRUE,0,249.9
+a0l4L0000005iYKQAY,Perwinnes,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,45
+a0l4L0000005iYOQAY,Cloud Hill Windfarm,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,60
+a0l4L0000005iYSQAY,Rivox Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,220
+a0l4L0000005iYVQAY,Earl Shilton BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iYhQAI,Neilston 132,Built,Energy Storage System,TRUE,50,150
+a0l4L0000005iYjQAI,Bridgwater 2 (tertiary) - New Conn,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iYkQAI,Highview Hunterston East Cryobattery,Consents Approved,Demand;Energy Storage System;Reactive Compensation,FALSE,0,200
+a0l4L0000005iYqQAI,Scatsta Greener Grid Park,Scoping,Demand;Energy Storage System,FALSE,0,49.9
+a0l4L0000005iYwQAI,Willington Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iZ0QAI,Blackhillock Battery,Consents Approved,Energy Storage System,TRUE,0,349
+a0l4L0000005iZ1QAI,Rothienorman Battery,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iZ2QAI,CREYKE BECK,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iZ5QAI,Kingsnorth,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,120
+a0l4L0000005iZCQAY,Indian Queens Energy Centre,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005iZLQAY,Alyth,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,900
+a0l4L0000005iZPQAY,Bicker Fenn Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iZQQAY,Bodinglee Wind Farm,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,280
+a0l4L0000005iZRQAY,Dungeness Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iZUQAY,Tween Bridge Solar Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l4L0000005iZZQAY,Lapwing Fen II,Scoping,Energy Storage System,TRUE,0,249.6
+a0l4L0000005iZaQAI,Norfolk001,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,860
+a0l4L0000005iZdQAI,Peterhead Battery,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iZeQAI,Braintree (Tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005iZfQAI,Braintree,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iZgQAI,Bredbury,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iZiQAI,Bustleholme,Built,Energy Storage System,TRUE,57,57
+a0l4L0000005ia0QAA,Ladyfield Renewable Energy Park,Scoping,Energy Storage System,TRUE,0,68
+a0l4L0000005ia1QAA,Pembroke BESS and Solar Station,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,99.9
+a0l4L0000005ia2QAA,Eredine Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,105
+a0l4L0000005ia6QAA,BESS Swan,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005ia7QAA,BESS Harker,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005ia8QAA,Banc y Celyn Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,165
+a0l4L0000005iaAQAQ,Alcemi Midmill BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005iaBQAQ,Devonside BESS,Scoping,Energy Storage System,TRUE,0,49.5
+a0l4L0000005iaCQAQ,Langage Battery Storage,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005iaDQAQ,Ewerby,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iaFQAQ,THE CLEAN FUTURE,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iaJQAQ,Balvedavist 162 Battery Storage,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,162
+a0l4L0000005iaOQAQ,Bicker Fen 1 Solar,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iaRQAQ,Bolney,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005iaTQAQ,Canterbury Tertiary,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iaUQAQ,Capenhurst Tertiary Connection,Built,Energy Storage System,TRUE,57,57
+a0l4L0000005iaXQAQ,Carrington,Awaiting Consents,Energy Storage System,TRUE,0,57
+a0l4L0000005iaaQAA,Clash Gour,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,210
+a0l4L0000005iabQAA,Clauchrie Windfarm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,108
+a0l4L0000005iacQAA,Ferrybridge D,Scoping,CCGT (Combined Cycle Gas Turbine);Demand;Energy Storage System;Hydrogen;OCGT (Open Cycle Gas Turbine),FALSE,0,1420
+a0l4L0000005iadQAA,Coventry,Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,49.9,49.9
+a0l4L0000005iaqQAA,Alcemi Bramford Battery Energy Storage Facility,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005iasQAA,Neilston 400kV Greener Grid Park,Consents Approved,Energy Storage System,TRUE,0,600
+a0l4L0000005ib6QAA,Chapelcross Solar PV and Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150.88000000000002
+a0l4L0000005ib7QAA,WindyHill BESS2 Facility,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005ib8QAA,Drakelow BESS,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005ib9QAA,Spennymoor PV & BESS,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005ibBQAQ,Penwortham BESS,Scoping,Energy Storage System,TRUE,0,57
+a0l4L0000005ibCQAQ,NorthFleet Tertiary,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005ibFQAQ,Spennymoor Greener Grid Park,Awaiting Consents,Energy Storage System;Reactive Compensation,FALSE,0,500
+a0l4L0000005ibKQAQ,Portwind,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Offshore,FALSE,0,2500
+a0l4L0000005ibMQAQ,Cowley,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005ibTQAQ,Feckenham Greener Grid Park,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005ibWQAQ,Wilton Lion BESS,Built,Energy Storage System,TRUE,150,150
+a0l4L0000005ibaQAA,Mannington,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005ibbQAA,Mannington,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005ibxQAA,Eggborough,Scoping,Energy Storage System,TRUE,0,550
+a0l4L0000005ibyQAA,Daines BESS,Scoping,Energy Storage System,TRUE,0,600
+a0l4L0000005ic0QAA,EcoUskmouth,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005ic1QAA,EcoYaxley1,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005ic4QAA,Newchurch,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ic6QAA,BESS North Farm,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005ic7QAA,Fort Augustus Storage,Scoping,Energy Storage System,TRUE,0,900
+a0l4L0000005ic8QAA,Cowley Energy Storage,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005icDQAQ,Bramford BESS,Consents Approved,Energy Storage System,TRUE,0,300
+a0l4L0000005iceQAA,Kirkby,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005icfQAA,Kirkby (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005icgQAA,Monets Garden,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005iclQAA,Norwich,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005icmQAA,Norwich Yare,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.5
+a0l4L0000005icoQAA,Oldbury (Tertiary),Awaiting Consents,Energy Storage System,TRUE,0,57
+a0l4L0000005icpQAA,Taunton,Awaiting Consents,Energy Storage System,TRUE,0,100
+a0l4L0000005icuQAA,Seabank (Tertiary),Awaiting Consents,Energy Storage System,TRUE,0,49.9
+a0l4L0000005icvQAA,Sellindge (Tertiary),Awaiting Consents,Energy Storage System,TRUE,0,76
+a0l4L0000005icyQAA,Alcemi Devilla Battery Energy Storage Facility,Consents Approved,Energy Storage System,TRUE,0,500
+a0l4L0000005id4QAA,Coalburn Battery Energy Storage Facility,Built,Energy Storage System,TRUE,500,500
+a0l4L0000005idCQAQ,Didcot Battery,Scoping,Demand;Energy Storage System,FALSE,0,100
+a0l4L0000005idEQAQ,Eccles BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,500
+a0l4L0000005idKQAQ,Dalmarnock Road BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,40
+a0l4L0000005idLQAQ,Legacy Green Energy Centre,Awaiting Consents,Energy Storage System,TRUE,0,1200
+a0l4L0000005idMQAQ,Cilfynydd Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1025
+a0l4L0000005idTQAQ,Cnoc Buidhe Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,220
+a0l4L0000005idaQAA,Branxton Energy Storage Facility,Scoping,Energy Storage System,TRUE,0,750
+a0l4L0000005idfQAA,Exeter Main,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005idgQAA,Staythorpe,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005idjQAA,Swansea,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005idkQAA,Rassau,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,400
+a0l4L0000005idlQAA,Cilfynydd,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,400
+a0l4L0000005idpQAA,Whitehill Battery Storage,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005ieEQAQ,Deeside Power Station,Built,Energy Storage System;Reactive Compensation,FALSE,1,190
+a0l4L0000005ieFQAQ,Whitson,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005ieKQAQ,Damhead Creek 2,Consents Approved,CCGT (Combined Cycle Gas Turbine);Energy Storage System;OCGT (Open Cycle Gas Turbine),FALSE,0,1800
+a0l4L0000005ieLQAQ,Worset PV & BESS Park,Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,37.5
+a0l4L0000005ieNQAQ,Iver,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iePQAQ,Earraghail Renewable Energy Development (formerly Skipness & Corranbuie),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,105
+a0l4L0000005ieQQAQ,Spennymoor,Awaiting Consents,Energy Storage System,TRUE,0,49.9
+a0l4L0000005ieSQAQ,Alverdiscott,Scoping,Energy Storage System,TRUE,0,100
+a0l4L0000005iebQAA,Thornton Facility,Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,99.98,929.99
+a0l4L0000005iekQAA,Moelfre Energy Park,Scoping,Energy Storage System,TRUE,0,158.4
+a0l4L0000005ielQAA,Cottam,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iemQAA,Cellarhead 400kV Energy Storage,Under Construction/Commissioning,Energy Storage System,TRUE,0,300
+a0l4L0000005ieoQAA,Zenobe Kilmarnock South,Built,Energy Storage System,TRUE,300,300
+a0l4L0000005iepQAA,Melvich Wind Energy Hub,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,57.6
+a0l4L0000005ieqQAA,Drakelow Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ierQAA,Penwortham Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iesQAA,WindyHill Energy Storage Facility,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005ietQAA,Aberthaw Energy,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005ievQAA,Kinmuck PV and BESS Station,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,105
+a0l4L0000005ieyQAA,WELBAR ENERGY STORAGE,Built,Energy Storage System,TRUE,349.9,399.9
+a0l4L0000005ifQQAQ,Sundon,Under Construction/Commissioning,Energy Storage System,TRUE,0,50
+a0l4L0000005ifRQAQ,Landulph,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ifTQAQ,Keith 132 Greener Grid Park,Built,Energy Storage System;Reactive Compensation,FALSE,0,48
+a0l4L0000005ifWQAQ,Tillbridge Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ifaQAA,Swansea Greener Grid Park - Connection 1,Under Construction/Commissioning,Energy Storage System;Reactive Compensation,FALSE,0,97
+a0l4L0000005ifbQAA,Swansea North,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005ifgQAA,Walpole,Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,49.9,57
+a0l4L0000005ifhQAA,Warley,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005ifjQAA,Rawhills Battery Energy Storage Facility(Coalburn 2),Consents Approved,Energy Storage System,TRUE,0,500
+a0l4L0000005ifrQAA,Salamander Offshore Wind Farm,Scoping,Energy Storage System;Wind Offshore,FALSE,0,200
+a0l4L0000005ifsQAA,Eaton Socon Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ifvQAA,Slickly Wind Farm,Consents Approved,Energy Storage System;Wind Onshore,FALSE,0,114
+a0l4L0000005ifzQAA,Lakeside Energy Drax,Built,Energy Storage System,TRUE,99.9,99.9
+a0l4L0000005ig3QAA,Baillie Greener Grid Park,Scoping,Energy Storage System;Reactive Compensation,FALSE,0,48
+a0l4L0000005ig5QAA,BLUE PLANET SOLAR,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005igBQAQ,Harker Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005igCQAQ,Heysham Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005igDQAQ,Ironbridge Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005igJQAQ,Icewind Hinkley Point,Scoping,Energy Storage System,TRUE,0,1000
+a0l4L0000005igKQAQ,Elvanfoot (9.8 MW) Energy Storage,Consents Approved,Energy Storage System,TRUE,0,9.8
+a0l4L0000005igNQAQ,Thorpe Marsh Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1025
+a0l4L0000005igqQAA,Wymondley Solar Farm,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l4L0000005igrQAA,Bramley BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,57
+a0l4L0000005igyQAA,Heathland Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,80
+a0l4L0000005igzQAA,Hunterston Battery Storage Facility,Consents Approved,Energy Storage System;Reactive Compensation,FALSE,0,200
+a0l4L0000005ihHQAQ,BOOM Power Llanbabo Generation,Consents Approved,Energy Storage System,TRUE,0,300
+a0l4L0000005ihMQAQ,Gwynt Alwen WF,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,108
+a0l4L0000005ihQQAQ,Coylton 275kV Greener Grid Park,Consents Approved,Energy Storage System,TRUE,0,450
+a0l4L0000005ihYQAQ,Sheaf Energy,Consents Approved,Energy Storage System,TRUE,0,249
+a0l4L0000005ihhQAA,Ninfield Greener Grid Park,Awaiting Consents,Energy Storage System;Reactive Compensation,FALSE,0,450
+a0l4L0000005ihjQAA,Cellarhead Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ihmQAA,SSE Fiddlers Ferry Battery Energy Storage,Consents Approved,Energy Storage System,TRUE,0,150
+a0l4L0000005iiCQAQ,JBM Solar 12 - Shrewsbury Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.99
+a0l4L0000005iibQAA,Native River (Capenhurst),Built,Energy Storage System,TRUE,57,57
+a0l4L0000005iihQAA,Grendon Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iirQAA,Hams Hall Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005iitQAA,Feckenham Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005iixQAA,Norwich Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ij3QAA,Zenobe New Deer Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005ij4QAA,Zenobe Eccles Battery Storage,Under Construction/Commissioning,Energy Storage System,TRUE,0,400
+a0l4L0000005ijxQAA,Sizing John (Rainhill),Built,Energy Storage System,TRUE,57,142.5
+a0l4L0000005ik6QAA,Glentaggart 42MW BESS,Scoping,Energy Storage System,TRUE,0,42
+a0l4L0000005ikAQAQ,SSE Ferrybridge BESS,Built,Demand;Energy Storage System,FALSE,150,150
+a0l4L0000005ikEQAQ,Alcemi Score 2 Battery Energy Storage Facility,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005ikHQAQ,Willington Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ikMQAQ,Greta III,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ikQQAQ,Kilmarnock South Battery Storage,Consents Approved,Energy Storage System,TRUE,0,500
+a0l4L0000005ikSQAQ,Aberthaw PV & BESS Generation,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005ikTQAQ,Capenhurst Tertiary,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ikVQAQ,Monk Fryston,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ikWQAQ,Cellarhead,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ikYQAQ,Afon Ddaw,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005ikaQAA,Drongan Battery Storage,Scoping,Energy Storage System,TRUE,0,100
+a0l4L0000005ikbQAA,Elmya Braybrooke BESS,Awaiting Consents,Energy Storage System,TRUE,0,252
+a0l4L0000005ikfQAA,Tolkien Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l4L0000005ikkQAA,Bendle Farm,Scoping,Energy Storage System,TRUE,0,228
+a0l4L0000005ikmQAA,Walpole Flexible Generation,Scoping,CCGT (Combined Cycle Gas Turbine);Energy Storage System,FALSE,0,2000
+a0l4L0000005ikqQAA,Chickerell,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ikrQAA,Feckenham,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iktQAA,Eggborough CCGT - OCGT - BESS,Awaiting Consents,CCGT (Combined Cycle Gas Turbine);Energy Storage System;OCGT (Open Cycle Gas Turbine),FALSE,0,2450
+a0l4L0000005ikuQAA,KXP Alpha Two,Scoping,Energy Storage System,TRUE,0,99.99000000000001
+a0l4L0000005ikwQAA,Melksham BESS & PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l4L0000005il0QAA,Gresham House Gretna BESS,Scoping,Energy Storage System,TRUE,0,400
+a0l4L0000005il5QAA,Manor Farm Solar Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l4L0000005il8QAA,Elmya Grange Road,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0l4L0000005il9QAA,Pentir Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ilDQAQ,Hawthorn Pit Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ilIQAQ,West Burton B,Built,CCGT (Combined Cycle Gas Turbine);Energy Storage System,FALSE,1333,1881
+a0l4L0000005ilNQAQ,Bramford Tertiary,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ilOQAQ,Bramley (tertiary),Under Construction/Commissioning,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ilPQAQ,Bridgwater (tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ilSQAQ,Sunnica,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ildQAA,Blacklaw,Built,Energy Storage System;Wind Onshore,FALSE,118,340
+a0l4L0000005ilrQAA,Bolney (tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ilwQAA,Enderby (Akira),Built,Energy Storage System,TRUE,57,57
+a0l4L0000005ilzQAA,Blacklaw Extension,Built,Energy Storage System;Wind Onshore,FALSE,60,60
+a0l4L0000005im2QAA,Gateway Energy Centre Power Station,Consents Approved,Energy Storage System,TRUE,0,1000
+a0l4L0000005im7QAA,Immingham,Built,Energy Storage System;Gas Reciprocating,FALSE,1268,1318
+a0l4L0000005imOQAQ,Dersalloch Wind Farm Extension,Scoping,Energy Storage System,TRUE,0,11
+a0l4L0000005imbQAA,Harestanes,Built,Energy Storage System;Wind Onshore,FALSE,125,163.3
+a0l4L0000005imfQAA,Whitelee Extension,Built,Energy Storage System;Hydrogen;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,206,238
+a0l4L0000005in7QAA,Hornsea Power Station 3,Consents Approved,Energy Storage System;Wind Offshore,FALSE,0,3000
+a0l4L0000005inOQAQ,Iron Acton,Consents Approved,Energy Storage System,TRUE,0,120
+a0l4L0000005inPQAQ,Minety,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005inQQAQ,JBM Solar -Minety,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005inXQAQ,Lovedean (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005incQAA,Monk Fryston Tertiary Connection,Built,Energy Storage System,TRUE,57,57
+a0l4L0000005indQAA,Enoch Hill 2 Wind Farm,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,10
+a0l4L0000005inoQAA,Didcot B,Built,CCGT (Combined Cycle Gas Turbine);Energy Storage System,FALSE,1475,1705
+a0l4L0000005inpQAA,Little Barford,Built,CCGT (Combined Cycle Gas Turbine);Energy Storage System,FALSE,740,740
+a0l4L0000005invQAA,Sundon,Built,Energy Storage System,TRUE,39.9,39.9
+a0l4L0000005inyQAA,Thorpe Marsh 1 (Tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005io2QAA,Rayleigh 2 Tertiary,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005io4QAA,Rayleigh 1 Tertiary,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005io8QAA,Whitegate Tertiary Connection,Built,Energy Storage System,TRUE,57,57
+a0l4L0000005ioDQAQ,Wylfa Substation,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,120
+a0l4L0000005ioIQAQ,Edinbane Windfarm,Built,Energy Storage System;Wind Onshore,FALSE,41.4,90
+a0l4L0000005ioVQAQ,Walpole 2 (tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0l4L0000005iodQAA,Iron Acton,Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,99.4,120
+a0l4L0000005iogQAA,JBM Solar 13 - Melksham,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005ioiQAA,Capenhurst,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iokQAA,Pembroke (spare bay),Consents Approved,Energy Storage System,TRUE,0,120
+a0l4L0000005iomQAA,Enoch Hill,Built,Energy Storage System;Wind Onshore,FALSE,69,69
+a0l4L0000005ip9QAA,High Marnham (Tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ipfQAA,West Burton Solar Project,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l4L0000005ipkQAA,Walpole 1 (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iplQAA,Warley (tertiary),Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,57,57
+a0l4L0000005ippQAA,Willington East 1 (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005iprQAA,Cryogenic Battery System (Synchronous),Under Construction/Commissioning,Energy Storage System;Reactive Compensation,FALSE,0,49.9
+a0l4L0000005ipsQAA,Willington East 2 (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005ipwQAA,Fleet EGH (Tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005iq8QAA,Rugeley,Scoping,Energy Storage System,TRUE,0,50
+a0l4L0000005iqfQAA,Indian Queens,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005iqkQAA,Kemsley,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005irDQAQ,Spalding Energy Expansion,Built,Energy Storage System;OCGT (Open Cycle Gas Turbine),FALSE,299.98999999999995,849.99
+a0l4L0000005irEQAQ,JG Pears,Built,CHP (Combined Heat and Power);Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,30,450
+a0l4L0000005isjQAA,Pencloe Windfarm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,115
+a0l4L0000005islQAA,Willington,Scoping,Energy Storage System,TRUE,0,57
+a0l4L0000005isuQAA,MeyGen Tidal,Consents Approved,Energy Storage System;Tidal,FALSE,0,287
+a0l4L0000005itMQAQ,Norton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005itNQAQ,Ratcliffe-on-Soar II,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,590
+a0l4L0000005itPQAQ,Branxton PV & BESS Station,Scoping,Energy Storage System,TRUE,0,1000
+a0l4L0000005itRQAQ,Bicker Fen 2 Solar,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005itTQAQ,Kelloe Mains,Scoping,Energy Storage System,TRUE,0,400
+a0l4L0000005itUQAQ,Saltend North BESS & PV,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005itVQAQ,Limekiln,Built,Energy Storage System;Wind Onshore,FALSE,106,167
+a0l4L0000005itZQAQ,Braybrooke Solar and Battery Connection,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005itgQAA,Enderby Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005itiQAA,Stoke Bardolph 400,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005itjQAA,Womblehill BESS Farm,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005itlQAA,Langage 400,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005itqQAA,Biggleswade PV,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005itrQAA,NorthFleet 2 BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005itsQAA,Penn Renewable BESS & Substation,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,99.9
+a0l4L0000005ittQAA,Stracathro BESS,Scoping,Demand;Energy Storage System,FALSE,0,249
+a0l4L0000005ituQAA,Gresham House Mossmoran BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005itxQAA,M74 West Wind Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,180
+a0l4L0000005iu0QAA,Pivot Power Harker Hybrid,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iu2QAA,EcoLovedean,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005iu3QAA,Thorney Edge,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005iu4QAA,Fancott,Scoping,Energy Storage System,TRUE,0,600
+a0l4L0000005iu6QAA,Whitehouse BESS station,Scoping,Demand;Energy Storage System,FALSE,0,249
+a0l4L0000005iuAQAQ,Little Horsted,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005iuBQAQ,Ocker Hill - Gresham House,Consents Approved,Energy Storage System,TRUE,0,240
+a0l4L0000005iuEQAQ,Overton Solar & Storage Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1400
+a0l4L0000005iuFQAQ,Gresham House Cockenzie BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,240
+a0l4L0000005iuGQAQ,EcoGrainWest,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005iuUQAQ,Rochdale BESS,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005iuVQAQ,Zenobe Stalybridge Project,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005iuXQAQ,Penwortham BESS,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005iuYQAQ,Willington,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iubQAA,Gresham House Rayleigh BESS,Scoping,Energy Storage System,TRUE,0,480
+a0l4L0000005iudQAA,Kearsley,Awaiting Consents,Demand;Energy Storage System,FALSE,0,49.9
+a0l4L0000005iueQAA,Laleham,Scoping,Demand;Energy Storage System,FALSE,0,90
+a0l4L0000005iufQAA,Axminster,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iujQAA,Meridian Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,750
+a0l4L0000005iuuQAA,Braxbess Branxton BESS,Scoping,Energy Storage System,TRUE,0,480
+a0l4L0000005iuvQAA,Sclenteuch Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,54
+a0l4L0000005iuwQAA,MARCHWOOD ENERGY STORAGE,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iuxQAA,Walton Road Energy Project,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l4L0000005iuyQAA,Sedgeby Solar Farm,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,350
+a0l4L0000005iv1QAA,Garn Fach Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,162
+a0l4L0000005iv5QAA,EcoGrimsbyWest,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005iv8QAA,Boom Power Feckenham Generation Hub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iv9QAA,Mablethorpe Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ivBQAQ,Housham PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l4L0000005ivDQAQ,Halbeath,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,150
+a0l4L0000005ivEQAQ,Achrugan Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,149
+a0l4L0000005ivGQAQ,High Mathernock Battery Storage,Scoping,Energy Storage System,TRUE,0,334
+a0l4L0000005ivJQAQ,Long Stratton PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ivKQAQ,Didcot Energy Park,Awaiting Consents,Energy Storage System,TRUE,0,300
+a0l4L0000005ivLQAQ,East Claydon Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ivPQAQ,Bloch Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,126
+a0l4L0000005ivQQAQ,Sheilhill Battery Storage,Awaiting Consents,Energy Storage System,TRUE,0,100
+a0l4L0000005ivUQAQ,Mosedale Energy,Scoping,Energy Storage System,TRUE,0,249
+a0l4L0000005ivbQAA,South Kyle 2 Wind farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,92.4
+a0l4L0000005ivcQAA,Eaton Socon PV Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l4L0000005ivgQAA,Southery,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005ivhQAA,Cottered,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005ivkQAA,Lanarkshire BESS,Awaiting Consents,Energy Storage System,TRUE,0,500
+a0l4L0000005ivpQAA,Thurrock Power Station,Built,Energy Storage System;Gas Reciprocating,FALSE,300,750
+a0l4L0000005ivqQAA,Longfield Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005ivrQAA,St Dennis Hendra,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005ivtQAA,East Claydon Storage,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005ivvQAA,High Marnham 400,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l4L0000005ivxQAA,Sundon Storage,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005ivyQAA,Exeter BESS,Consents Approved,Energy Storage System,TRUE,0,680
+a0l4L0000005iw1QAA,Fife 2 BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005iw2QAA,Chickerell Solar PV & BESS,Consents Approved,Energy Storage System,TRUE,0,400
+a0l4L0000005iw4QAA,Mablethorpe Storage,Scoping,CCGT (Combined Cycle Gas Turbine);Energy Storage System,FALSE,0,1500
+a0l4L0000005iw7QAA,Ocker Hill Tertiary Connection,Built,Energy Storage System,TRUE,57,57
+a0l4L0000005iw8QAA,Mill Hill Tertiary Connection,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005iw9QAA,Hirfynydd and Mynydd Drumaur,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,249
+a0l4L0000005iwGQAQ,Capenhurst 275KV Substation,Built,Energy Storage System,TRUE,100,100
+a0l4L0000005iwHQAQ,Cleve Hill Solar Park,Built,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,350,550
+a0l4L0000005iwIQAQ,Rosefield,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iwKQAQ,South Brook,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,35.5
+a0l4L0000005iwLQAQ,Culham Storage,Consents Approved,Energy Storage System,TRUE,0,500
+a0l4L0000005iwMQAQ,Nursling Tertiary,Built,Energy Storage System,TRUE,49.9,49.9
+a0l4L0000005iwPQAQ,Llanwern Phase 1,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,95
+a0l4L0000005iwSQAQ,Kilmarnock BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,350
+a0l4L0000005iwUQAQ,Hagshaw Repowering Phase 3,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,84
+a0l4L0000005iwgQAA,East Claydon Greener Grid Park,Scoping,Energy Storage System,TRUE,0,650
+a0l4L0000005iwjQAA,Thurcroft BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0l4L0000005iwoQAA,Beanacre BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iwpQAA,Warley Battery Energy Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iwqQAA,Overton Green Energy Centre,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005iwrQAA,Rochester Renewable Project,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,60
+a0l4L0000005iwuQAA,Steeple Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iwyQAA,Drakelow,Scoping,Energy Storage System,TRUE,0,120
+a0l4L0000005ix1QAA,Fenwick Solar Project,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,237.5
+a0l4L0000005ix8QAA,Mon Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,360
+a0l4L0000005ix9QAA,Indian Queens,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,437
+a0l4L0000005ixDQAQ,Staythorpe (BESS and PV),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,437
+a0l4L0000005ixJQAQ,Plas Power Estate North Tertiary,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ixKQAQ,Fferm Solar Pentir,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005ixOQAQ,Drax,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,190
+a0l4L0000005ixRQAQ,Wishaw Energy Storage Facility,Built,Energy Storage System,TRUE,49.949999999999996,49.949999999999996
+a0l4L0000005ixTQAQ,Cowley (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ixWQAQ,Norton PV and BESS,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,40.9
+a0l4L0000005ixXQAQ,Monk Fryston BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005ixbQAA,Berkswell Energy Storage,Under Construction/Commissioning,Energy Storage System,TRUE,0,200
+a0l4L0000005ixeQAA,Somerford,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005ixfQAA,Southfields,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,47.5
+a0l4L0000005ixgQAA,Fairholme BESS,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005ixiQAA,Axminster BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005ixjQAA,Aberthaw (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005ixlQAA,Breach Solar Farm,Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,49.9,49.9
+a0l4L0000005ixmQAA,Burwell (Tertiary),Awaiting Consents,Energy Storage System,TRUE,0,57
+a0l4L0000005ixpQAA,Butlers Wood Green Energy Centre,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1025
+a0l4L0000005ixqQAA,Pond Hill Farm 1,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005ixrQAA,Al Boum Photo (Norton),Consents Approved,Energy Storage System,TRUE,0,275
+a0l4L0000005ixsQAA,Norton,Awaiting Consents,Energy Storage System,TRUE,0,57
+a0l4L0000005ixuQAA,Heckington Fen Solar Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005ixvQAA,Axminster,Awaiting Consents,Energy Storage System,TRUE,0,120
+a0l4L0000005ixwQAA,Axminster - New Connection,Scoping,Energy Storage System,TRUE,0,120
+a0l4L0000005ixxQAA,Dog Trap Lane,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005ixyQAA,Monk Fryston SSE,Consents Approved,Energy Storage System,TRUE,0,320
+a0l4L0000005ixzQAA,Pond Hill Farm 2 BESS,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005iy0QAA,Monk Fryston,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iy3QAA,Berkswell (Tertiary),Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iy5QAA,Bramford (Tertiary),Built,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,57,57
+a0l4L0000005iy8QAA,Zenobe Norton,Awaiting Consents,Energy Storage System,TRUE,0,150
+a0l4L0000005iyAQAQ,Southfields Farm,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005iyBQAQ,Amersham BESS & Substation,Scoping,Energy Storage System,TRUE,0,249.9
+a0l4L0000005iyCQAQ,Copper Nose BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005iyDQAQ,KXP Alpha Three,Scoping,Energy Storage System,TRUE,0,99.99000000000001
+a0l4L0000005iyFQAQ,Braidfield Battery Storage,Scoping,Demand;Energy Storage System,FALSE,0,100
+a0l4L0000005iyIQAQ,Flemyland Battery Storage,Consents Approved,Energy Storage System,TRUE,0,100
+a0l4L0000005iyJQAQ,Bishops Dal Energy Park,Scoping,Energy Storage System,TRUE,0,150
+a0l4L0000005iyMQAQ,Gresham House Kincardine BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005iyNQAQ,Wymondley,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iyRQAQ,Jersey Farm BESS,Consents Approved,Energy Storage System,TRUE,0,400
+a0l4L0000005iyVQAQ,Cornwall Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L0000005iyWQAQ,KXP Alpha One,Scoping,Energy Storage System,TRUE,0,99.99000000000001
+a0l4L0000005iyYQAQ,Pembroke BESS,Consents Approved,Energy Storage System,TRUE,0,350
+a0l4L0000005iycQAA,Dougliehill BESS,Scoping,Energy Storage System,TRUE,0,49
+a0l4L0000005iyfQAA,Kearsley North Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l4L0000005iygQAA,Swansea North Green Energy Centre,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1025
+a0l4L0000005iyjQAA,Biggleswade BESS,Scoping,Energy Storage System,TRUE,0,57
+a0l4L0000005iylQAA,Elmya Melbourne BESS,Awaiting Consents,Energy Storage System,TRUE,0,300
+a0l4L0000005iytQAA,Uskmouth - New Connection,Under Construction/Commissioning,Energy Storage System,TRUE,0,120
+a0l4L0000005iz0QAA,Cottam Solar PV + BESS,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L0000005iz1QAA,BESS Cilfynydd,Scoping,Energy Storage System,TRUE,0,200
+a0l4L0000005iz6QAA,Oaklands Farm Solar PV,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,162.3
+a0l4L0000005iz7QAA,Exeter (Tertiary),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iz9QAA,Lister Battery (formerly Lister Drive),Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005izCQAQ,Lamford Hill,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,42
+a0l4L0000005izDQAQ,Ourack Wind Farm,Consents Approved,Energy Storage System;Wind Onshore,FALSE,0,105
+a0l4L0000005izMQAQ,Legacy Tertiary Connection,Consents Approved,Energy Storage System,TRUE,0,57
+a0l4L0000005izQQAQ,Alcemi Score Battery Energy Storage Facility,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005izSQAQ,Ratcliffe on Soar,Built,Energy Storage System;OCGT (Open Cycle Gas Turbine),FALSE,225,225
+a0l4L0000005izWQAQ,Mannington Tertiary,Consents Approved,Energy Storage System,TRUE,0,47.5
+a0l4L0000005iziQAA,Carrington,Consents Approved,Energy Storage System,TRUE,0,680
+a0l4L0000005izlQAA,Melksham  (Tertiary),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l4L0000005iznQAA,Legacy 400,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,400
+a0l4L0000005izrQAA,Lister Drive Shaw,Scoping,Energy Storage System,TRUE,0,57
+a0l4L0000005izsQAA,One Earth Solar Farm,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,740
+a0l4L0000005izuQAA,Uskmouth,Built,Energy Storage System,TRUE,349.9,349.9
+a0l4L0000005j01QAA,Richborough 1,Built,Energy Storage System,TRUE,50,50
+a0l4L0000005j02QAA,Richborough 2,Built,Energy Storage System,TRUE,50,50
+a0l4L0000005j14QAA,Alyth BESS Station,Scoping,Energy Storage System,TRUE,0,500
+a0l4L0000005j1VQAQ,HECWE Dungavel Wind Farm,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,400
+a0l4L0000005j1WQAQ,Zenobe Coalburn Battery Storage,Consents Approved,Energy Storage System,TRUE,0,200
+a0l4L0000005j1YQAQ,Middleton BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,200
+a0l4L0000005j8QQAQ,Hope Battery Storage,Scoping,Energy Storage System,TRUE,0,400
+a0l4L0000005j8VQAQ,Ferrybridge B BESS & Solar Substation,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,99.9
+a0l4L0000005j8WQAQ,Walham PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005j9YQAQ,ELMYA REDNAL,Awaiting Consents,Energy Storage System,TRUE,0,300
+a0l4L0000005j9nQAA,STOR Field 9 BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l4L0000005j9sQAA,EcoWymondley,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l4L0000005jA7QAI,Learielaw Energy Storage,Scoping,Energy Storage System,TRUE,0,100
+a0l4L0000005jACQAY,Newarthill Energy Park,Scoping,Energy Storage System,TRUE,0,300
+a0l4L0000005jAlQAI,Ochill BESS,Scoping,Energy Storage System,TRUE,0,49.5
+a0l4L000002yQWQQA2,Warley PV & BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l4L000002yQWaQAM,Monk Fryston Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l4L000002yQWkQAM,J212 High Grove Solar,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,720
+a0l4L000002yQWpQAM,Cottam PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l4L000002yQWuQAM,Bradford West BESS Substation,Scoping,Energy Storage System,TRUE,0,249
+a0l4L000002yQX9QAM,Jubilee Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l4L000002yQXEQA2,Persley Croft BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,50
+a0l4L000002yQXdQAM,Pittlesheugh Farm,Scoping,Energy Storage System,TRUE,0,340
+a0l4L000002yQY7QAM,Newlands Hill Wind Energy Hub,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,119
+a0l4L000002yQZUQA2,Letch Beck Energy Park,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L000002yQZZQA2,Walham 700MW BESS,Scoping,Energy Storage System,TRUE,0,700
+a0l4L000002yQZjQAM,Wymondley Farm,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l4L000002yQZoQAM,Shipley Road BESS,Consents Approved,Energy Storage System,TRUE,0,400
+a0l4L000002yQZtQAM,Alverdiscott Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l4L000002yQZyQAM,Kingfisher Farm,Scoping,Energy Storage System,TRUE,0,200
+a0l4L000002yQa3QAE,Newark BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L000002yQa8QAE,Ranby,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l4L000002yQaDQAU,Dewley Hill PV and BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,149.9
+a0l4L000002yQaSQAU,Langage Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l4L000002yQb1QAE,Necton Greener Grid Park,Consents Approved,Energy Storage System;Reactive Compensation,FALSE,0,78
+a0l4L000002yQb6QAE,Lightsource Mon Solar 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,120
+a0l8e000000TP6fAAG,Whitson BESS NP,Scoping,Energy Storage System,TRUE,0,350
+a0l8e000000TP9oAAG,Isenau Eight,Scoping,Energy Storage System,TRUE,0,249
+a0l8e000000TP9yAAG,Hunterston Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,70
+a0l8e000000TPANAA4,Helen Street BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000TPASAA4,Carseview Road BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000TPAXAA4,Beddington 1 BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000TPAcAAO,Henley Downs Farm BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000TPAmAAO,GH DEVCO Kincardine BESS,Scoping,Energy Storage System,TRUE,0,42
+a0l8e000000TPArAAO,Cleveden Road BESS,Scoping,Energy Storage System,TRUE,0,43
+a0l8e000000TPBGAA4,Provan Gas Works BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000TPBLAA4,Intwood Farm BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000TPBQAA4,Solomons Farm BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000TPCYAA4,Melkshem (Cartridge Farm),Awaiting Consents,Energy Storage System,TRUE,0,480
+a0l8e000000TPCdAAO,Daines NP BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000TPCnAAO,Grovers Farm BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000TPD7AAO,SEC 1 BESS,Scoping,Energy Storage System,TRUE,0,60
+a0l8e000000TPDMAA4,Pond Flexible Energy Park,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPDlAAO,Elstree Energy Storage,Scoping,Energy Storage System,TRUE,0,170
+a0l8e000000TPE0AAO,Downiebrae BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000000TPEFAA4,Alcemi  Ridham Docks BESF,Scoping,Energy Storage System,TRUE,0,280
+a0l8e000000TPEeAAO,Carrington Lane BESS,Scoping,Energy Storage System,TRUE,0,1800
+a0l8e000000TPFSAA4,Ratcliffe on Soar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e000000TPFcAAO,Nether Pitforthie BESS,Scoping,Energy Storage System,TRUE,0,50
+a0l8e000000TPFmAAO,AULTCRAGGIE BESS,Scoping,Energy Storage System,TRUE,0,50
+a0l8e000000TPFwAAO,Grantham Generation,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e000000TPHOAA4,Feckenham PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000000TPHTAA4,West Caulder BESS,Scoping,Demand;Energy Storage System,FALSE,0,250
+a0l8e000000TPHYAA4,Alcemi Bramford Battery Energy Storage Facility Phase 2,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000000TPHdAAO,Bankhead BESS,Scoping,Demand;Energy Storage System,FALSE,0,500
+a0l8e000000TPHiAAO,DRAGON GREEN BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000TPHnAAO,Drakelow PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000000TPHxAAO,Cellarhead PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000000TPI2AAO,Learney BESS,Scoping,Energy Storage System,TRUE,0,50
+a0l8e000000TPIRAA4,Arresgill Energy Storage 1,Scoping,Energy Storage System,TRUE,0,49
+a0l8e000000TPIWAA4,Whitelaw Brae BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,1
+a0l8e000000TPIbAAO,Arkwright,Scoping,Energy Storage System,TRUE,0,57
+a0l8e000000TPJUAA4,Glenrothes Hybrid BESS & Solar PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e000000TPJeAAO,Grangemouth  Hybrid BESS & Solar PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0l8e000000TPJoAAO,Spittal BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000TPKSAA4,SSE Spittal Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000TPKwAAO,Whitecraig BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPLzAAO,Westerton Lane BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000000TPMJAA4,FCC Thurcroft BESS,Scoping,Energy Storage System,TRUE,0,750
+a0l8e000000TPMdAAO,Market Harborough,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,700
+a0l8e000000TPMiAAO,Yaxley,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,520
+a0l8e000000TPN2AAO,Scarning,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,800
+a0l8e000000TPNHAA4,Elvanfoot (25MW) Energy Storage,Scoping,Energy Storage System,TRUE,0,25
+a0l8e000000TPNMAA4,Elvanfoot (50MW) Energy Storage,Scoping,Energy Storage System,TRUE,0,50
+a0l8e000000TPNRAA4,Lisa's Battery Storage,Awaiting Consents,Energy Storage System,TRUE,0,47
+a0l8e000000TPQCAA4,Monk Fryston,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e000000TPQMAA4,Zenobe Necton BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000TPQWAA4,Amersham Main,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPQbAAO,Stoke Bardolph,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPQgAAO,Braintree,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPQqAAO,Ninfield,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPQwAAO,West Weybridge,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPR5AAO,Sellindge West,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPRAAA4,Rye House,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPRFAA4,Canterbury North,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPRKAA4,Biggleswade,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000TPReAAO,Dunstable,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,600
+a0l8e000000TPRoAAO,Whitehill 60MW BESS,Scoping,Energy Storage System,TRUE,0,60
+a0l8e000000TPRtAAO,Clonmacate Farm BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPS8AAO,TH Maes Melin,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPS9AAO,TH Bridge Farm,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000TPSDAA4,TH Didcot,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPSSAA4,Braybrooke,Scoping,Energy Storage System,TRUE,0,600
+a0l8e000000TPSXAA4,Milligansbush Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000TPSrAAO,Gresham House Connagill BESS,Scoping,Energy Storage System,TRUE,0,170
+a0l8e000000TPXJAA4,Nethercourt Solar & BESS Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000TPc0AAG,Kedrum Solar Farm,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e000000TPc5AAG,Partridge Farm BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000TPcAAAW,Didcot BESS 1,Scoping,Energy Storage System,TRUE,0,750
+a0l8e000000TPcFAAW,Didcot BESS 2,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000TPcPAAW,GF Thornton Energy BESS,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000TPcjAAG,High Marnham BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000ViASAA0,Noventum - Biggleswade,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e000000ViEzAAK,Hockliffe GEC (Ethos Green),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,850
+a0l8e000000ViF4AAK,Market Harborough GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,560
+a0l8e000000ViF9AAK,Middle Farm Chollerton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000ViFJAA0,Bradenham - Thetford (Necton) GEC (Ethos Green),Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,850
+a0l8e000000ViJqAAK,Jackdaw BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e000000ViK5AAK,West Common Ipers Lane,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000ViKAAA0,South Powrie Farm,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000evg6AAA,Ferrybridge C PV & BESS Substation,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000000evgBAAQ,NEL Springfield,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000evgGAAQ,Keadby,Scoping,Energy Storage System,TRUE,0,250
+a0l8e000000evlRAAQ,Darnall Road,Scoping,Energy Storage System,TRUE,0,40
+a0l8e000000ew2EAAQ,Carlisle Road,Scoping,Energy Storage System,TRUE,0,40
+a0l8e000000ew2OAAQ,Petre Street,Scoping,Energy Storage System,TRUE,0,49.5
+a0l8e000000ew2TAAQ,Epworth PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e000000ew2iAAA,KX Alpha 1 Iron Acton,Scoping,Energy Storage System,TRUE,0,99
+a0l8e000000ew2nAAA,KX Alpha 2 Iron Acton,Scoping,Energy Storage System,TRUE,0,99
+a0l8e000000ew2sAAA,KX Alpha 3 Iron Acton,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000ew2xAAA,WORSET LANE BESS,Consents Approved,Energy Storage System,TRUE,0,200
+a0l8e000000ew37AAA,Green Hydrogen Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000000ewOOAAY,Thurso South BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000ewOTAAY,AGS Harestonhill BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000ewOYAAY,Worksop BESS,Scoping,Energy Storage System,TRUE,0,480
+a0l8e000000ewOdAAI,NEL Lackenby,Scoping,Energy Storage System,TRUE,0,228
+a0l8e000000ewXcAAI,Waltham Cross BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000ewXhAAI,CODDINGTON BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000ewYQAAY,KXP ALPHA 3 AYR BESS,Scoping,Energy Storage System,TRUE,0,99
+a0l8e000000ewj7AAA,Spennymoor BESS Station,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000ewjHAAQ,UPPER GREENFIELDS BESS,Scoping,Energy Storage System,TRUE,0,175
+a0l8e000000ewjRAAQ,Thornton BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000ewvzAAA,Daventry High Impact Green Energy Hub (HIGEH) 1,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e000000eww4AAA,SPITTAL,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000ewwYAAQ,Zenobe Spennymoor BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000ewwdAAA,Whiteminhill Renewable Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,220
+a0l8e000000ewwxAAA,Buckland Marsh Solar Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,280
+a0l8e000000ewx2AAA,Zenobe Hartmoor BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000exIeAAI,Lightsource Shipley PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000exIjAAI,Roger Hill Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e000000exN3AAI,Didcot Farm 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e000000exN8AAI,Kellwood Road BESS,Consents Approved,Energy Storage System,TRUE,0,40
+a0l8e000000exNNAAY,Knocknagael BESS,Awaiting Consents,Energy Storage System,TRUE,0,200
+a0l8e000000exRkAAI,Little Horsted,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e000000exRuAAI,Lightsource Newchurch PV/BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000exRzAAI,ER LIL Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000exS4AAI,ER TWD Energy,Scoping,Energy Storage System;Wind Onshore,FALSE,0,700
+a0l8e000000exSEAAY,ER BUR Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e000000exSJAAY,ER HTP Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e000000exSOAAY,ER LBR Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e000000exSTAAY,ER BR Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e000000exSYAAY,ER BRF 2 Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e000000exSdAAI,Lightsource Rhigos BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000exSiAAI,Willington BESS Station,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000exTqAAI,Beauly 02 BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000exYDAAY,Crakaig Wind Energy Hub,Scoping,Energy Storage System;Wind Onshore,FALSE,0,60
+a0l8e000000exYNAAY,Gartclash Farm BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000exgsAAA,Dalmarnock Storage BESS,Scoping,Energy Storage System,TRUE,0,42
+a0l8e000000exgxAAA,Mossmorran Storage BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000exh2AAA,Natpower Upsall Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000000exh7AAA,Natpower Thimbleby Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000000exlRAAQ,Lightsource Norton East PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000exlWAAQ,Lightsource Grendon PV+BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000exlbAAA,Kirkcaldy BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000exlgAAA,Hill Street Solar PV/BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l8e000000expyAAA,Natpower Basingstoke Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000000exuGAAQ,Project Number 6,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000ey6vAAA,Coddington,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000eyK3AAI,The Droves (formerly Swaffham PV & BESS),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000000eySmAAI,Noventum Hawthorn Pit,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e000000eySnAAI,Noventum Yaxley,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e000000eySrAAI,Noventum Market Harborough,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e000000eyX9AAI,Lightsource Ferryside PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000eybRAAQ,Orchard BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000eybgAAA,IPC Grid Tremorfa,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000000eybqAAA,Andrew BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000eygIAAQ,Airtnoch BESS,Awaiting Consents,Energy Storage System,TRUE,0,89
+a0l8e000000eykzAAA,KXP Alpha 1 Little Horsted,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000eyl4AAA,KXP Alpha 2 Little Horsted,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000eyl5AAA,KXP Alpha 3 Little Horsted,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000eytlAAA,Lairdmannoch Energy Park,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,100
+a0l8e000000eyu0AAA,J102A Oldbury BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000ez2cAAA,Red House Farm - Friston 400kV 249MW connection,Scoping,Energy Storage System,TRUE,0,249
+a0l8e000000ez6uAAA,EcoStocksbridge,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e000000ez79AAA,High Bardrain Wood & Moor,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f3zIAAQ,Ayr Energy Storage,Consents Approved,Energy Storage System,TRUE,0,150
+a0l8e000000f3zXAAQ,012 NEP Coventry West,Scoping,Energy Storage System,TRUE,0,92.4
+a0l8e000000f3zmAAA,GF Norwich BESS,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000f40fAAA,Harlaston,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f40kAAA,Leadenham High Impact Green Energy Hub,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e000000f40uAAA,St Asaph SSE,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f414AAA,Oakley,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f41EAAQ,West Haddon,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f41JAAQ,Brinsworth,Scoping,Energy Storage System,TRUE,0,600
+a0l8e000000f41TAAQ,Rowan Wind Energyfarm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,90.8
+a0l8e000000f41YAAQ,Rat Hall Mod App,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e000000f41dAAA,Auldhouse 200MW BESS,Scoping,Demand;Energy Storage System,FALSE,0,200
+a0l8e000000f41iAAA,Bridge BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000000f41nAAA,Morton Manor PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f41sAAA,Penrhiwdarren Farm,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000f427AAA,Crathorne Estate BESS and Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f42RAAQ,Lightsource Bramford PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f4AmAAI,AMP Eccles BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000f4ArAAI,Lightsource Yaxley PV,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f4OeAAI,AGS Inverclyde BESS,Scoping,Energy Storage System,TRUE,0,99
+a0l8e000000f4P3AAI,Clifton Lane 150MW BSS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000000f4PDAAY,Lightsource Hawthorne Pit,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f4PIAAY,Highland BESS,Scoping,Energy Storage System,TRUE,0,120
+a0l8e000000f4YqAAI,Brechfa Dau Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,110.8
+a0l8e000000f4Z0AAI,Larks Green Farm BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000f4Z5AAI,Park Farm Hybrid Solar and BESS,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,332.4
+a0l8e000000f4ZKAAY,L48 BESS Dams of Craigie,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,220
+a0l8e000000f4dhAAA,Lightsource Enderby PV+BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f4e1AAA,Lightsource Lower Frankton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f4iJAAQ,Chesterfield,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e000000f4iOAAQ,Whitson BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000000f4mlAAA,Hunterston PARC BESS,Scoping,Energy Storage System,TRUE,0,250
+a0l8e000000f4n0AAA,Berkswell BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e000000f4n5AAA,Burwell BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000000f4nAAAQ,Elland BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000000f4nFAAQ,Ratcliffe on Soar Farm,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000000f4nKAAQ,Enderby BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e000000f4nUAAQ,Low Harker BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000000f4nZAAQ,Bicker Drove,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000f4neAAA,Don Cossack,Awaiting Consents,Energy Storage System,TRUE,0,70
+a0l8e000000f4rrAAA,Lightsource Bodelwyddan,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000f4x7AAA,Mountain Fen,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f4xCAAQ,Rat Hall Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e000000f4xDAAQ,Killingholme PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000000f4xHAAQ,Norwich Main BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,949.9
+a0l8e000000f4xRAAQ,Cliff Hill Energy Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l8e000000f4xWAAQ,Fiddlers Ferry BESS,Consents Approved,Energy Storage System,TRUE,0,900
+a0l8e000000f4xgAAA,Peak Gen Barry,Built,Energy Storage System,TRUE,20,20
+a0l8e000000f4yAAAQ,EPL Somerset,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e000000f52SAAQ,LGB300,Scoping,Energy Storage System,TRUE,0,600
+a0l8e000000f57EAAQ,Noventum Navenby,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e000000f5BYAAY,EPL Suffolk,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e000000f5BdAAI,Tewitt Farm BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000f5BsAAI,Moreton Estate,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e000000f5BxAAI,Wakeleys BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e000000f5Y7AAI,Wymondley GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e000000f5Y8AAI,Navenby GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,580
+a0l8e000000f5YCAAY,Yaxley GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,450
+a0l8e000000f5cWAAQ,Burwell GEC (Ethos Green),Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,480
+a0l8e000000f5cXAAQ,Littlebrook GEC (Ethos Green),Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,400
+a0l8e000000f5djAAA,Lebanon Farm 2 BESS,Scoping,Energy Storage System,TRUE,0,275
+a0l8e000000f5rSAAQ,NEL Story,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f5zuAAA,OVERTON440MW BESS,Scoping,Energy Storage System,TRUE,0,440
+a0l8e000000f5zzAAA,Siddington BESS Station,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f64WAAQ,Butlers Energy Project,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e000000f64bAAA,St. Marys Lane - Upminster BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f650AAA,Boom Power Seaton Hill Generation HUB,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000f65AAAQ,Galileo 10,Scoping,Energy Storage System,TRUE,0,60
+a0l8e000000f65FAAQ,Aberthaw BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f65PAAQ,KELL440MW BESS,Scoping,Energy Storage System,TRUE,0,440
+a0l8e000000f69hAAA,Lightsource Overton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f69rAAA,Great Coates BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000000f6A1AAI,Cilfynydd 2,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f6ABAAY,Yaxley BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000f6EdAAI,Apley Head Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f6J5AAI,Farm 100MW BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e000000f6JAAAY,Codham Hall BESS,Scoping,Energy Storage System,TRUE,0,249
+a0l8e000000f6JjAAI,Aultmore Wind Farm (2023),Scoping,Energy Storage System;Wind Onshore,FALSE,0,105
+a0l8e000000f6K5AAI,StrataStore - Cheshire Energy Storage Facility,Scoping,Energy Storage System;Reactive Compensation,FALSE,0,200
+a0l8e000000f6OSAAY,Lightsource Marston Vale 240MW PV+BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f6bGAAQ,Redshaw Energy Park,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000000f6bLAAQ,Hill Farm,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f6fpAAA,Lightsource Auchans,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000000f6pcAAA,Lightsource Braybrooke,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f6u6AAA,Corriemoillie BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000000f6uBAAQ,Bewley BESS,Scoping,Energy Storage System,TRUE,0,249
+a0l8e000000f7BUAAY,Tinnisburn Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,70
+a0l8e000000f7BeAAI,PVDP Scarning,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,650
+a0l8e000000f7BjAAI,Cottered - PVDP,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,520
+a0l8e000000f7BoAAI,PVDP Woodbridge,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,610
+a0l8e000000f7CIAAY,Bradwell Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1050
+a0l8e000000f7PNAAY,Stoke Bardolph,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000000f7gRAAQ,Alcemi Armadale BESS,Scoping,Energy Storage System,TRUE,0,280
+a0l8e000000f7p3AAA,Sleat Hybrid,Scoping,Energy Storage System;Wind Onshore,FALSE,0,100
+a0l8e000000f7xsAAA,Pelham GEC (Ethos Green),Awaiting Consents,Energy Storage System,TRUE,0,480
+a0l8e000000f8AeAAI,Conrad (Winchester) Limited,Built,Energy Storage System;Gas Reciprocating,FALSE,19,19
+a0l8e000000f8NWAAY,Bolney BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000000f8NgAAI,Bramford GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,650
+a0l8e000000f8NqAAI,Grindon Grange,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e000000f8PiAAI,Zenobe Little Horsted BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000010wO9AAI,Bramford 2 GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0l8e0000010wOPAAY,Weaver BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000010wOYAAY,Vox Charlie,Scoping,Energy Storage System,TRUE,0,125.28
+a0l8e0000010wOiAAI,Bicker Fen BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wOnAAI,Buntington GEC,Awaiting Consents,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,850
+a0l8e0000010wP7AAI,Botley GEC (Ethos Green),Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l8e0000010wPCAAY,Osbaldwick PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wPHAAY,EcoMablethorpe,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e0000010wPWAAY,Aitkenhead Farm BESS,Scoping,Demand;Energy Storage System,FALSE,0,300
+a0l8e0000010wQ0AAI,Aberarder Extension Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,138
+a0l8e0000010wQKAAY,Templeton BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e0000010wQtAAI,Eggborough PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wRIAAY,Torfichen Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,150
+a0l8e0000010wRXAAY,SANDFORD,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e0000010wRwAAI,Caegarw Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,350
+a0l8e0000010wSfAAI,Red Moss Farm,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000010wSkAAI,Daines BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e0000010wSpAAI,Harker PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wSuAAI,Rhigos BESS,Scoping,Energy Storage System,TRUE,0,221
+a0l8e0000010wTJAAY,ER MKH Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,400
+a0l8e0000010wTTAAY,Longcroft Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,156
+a0l8e0000010wU7AAI,Assel Valley Extension Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,175
+a0l8e0000010wUCAAY,Grimsby BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000010wUMAAY,Smeaton BESS,Consents Approved,Energy Storage System,TRUE,0,228
+a0l8e0000010wV5AAI,Poppleton PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wVFAAY,Ardleigh Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e0000010wVKAAY,Pelham BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e0000010wVoAAI,Didcot High Impact Green Energy Hub (HIGEH) 1,Scoping,CCGT (Combined Cycle Gas Turbine);Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000010wVtAAI,Elgin BESS,Scoping,Energy Storage System,TRUE,0,30
+a0l8e0000010wVyAAI,Grendon High Impact Green Energy Hub (HIGEH) 1,Awaiting Consents,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,1000
+a0l8e0000010wW3AAI,East Claydon High Impact Green Energy Hub (HIGEH) 1,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,1000
+a0l8e0000010wWNAAY,Eaton Socon High Impact Green Energy Hub (HIGEH) 1,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,1000
+a0l8e0000010wWmAAI,Lyndhurst Camperdown BESS,Scoping,Energy Storage System,TRUE,0,49.5
+a0l8e0000010wWrAAI,Wymondley High Impact Green Energy Hub (HIGEH) 1,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,1000
+a0l8e0000010wXGAAY,Bowsheil Solar and Battery,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,166.60999999999999
+a0l8e0000010wXLAAY,Woodcock Faulds Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010wXQAAY,Springfield Solar and Battery,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,166.60999999999999
+a0l8e0000010wXVAAY,Kingsnorth BESS NP,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000010wXpAAI,Scatsta1 Greener Grid Park,Scoping,Energy Storage System,TRUE,0,5
+a0l8e0000010wXzAAI,North Lanrigg Battery Storage,Scoping,Demand;Energy Storage System,FALSE,0,200
+a0l8e0000010wY4AAI,Creyke Beck PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010wYEAAY,Bolney Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wYJAAY,Bramley Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wYTAAY,Cowley Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wYYAAY,Fleet Farm,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wYiAAI,Patford Bridge Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wYxAAI,Didcot Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wZHAAY,Waltham Cross Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000010wZdAAI,Walsoken Battery,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010wa7AAA,Penn Battery Storage,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000010waMAAQ,Keith Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e0000010waRAAQ,Bendle Farm 2.0,Scoping,Energy Storage System,TRUE,0,228
+a0l8e0000010walAAA,Project Number 4,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000010wavAAA,Sand Quarry Old Glasgow Road BESS,Scoping,Demand;Energy Storage System,FALSE,0,100
+a0l8e0000010wbKAAQ,Caldwell Road,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000010wbeAAA,Weaver Island 150MW BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e0000010wchAAA,Ratcliffe on Soar BESS,Scoping,Energy Storage System,TRUE,0,120
+a0l8e0000010wcrAAA,Longmorn Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0l8e0000010wdQAAQ,Bolney Farm 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e0000010wdaAAA,Bramley Farm 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e0000010wdfAAA,East Pit,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,750
+a0l8e0000010wdpAAA,Cowley Farm 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e0000010wduAAA,Fleet Farm 2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e0000010wedAAA,Waltham Cross Farm 2,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0l8e0000010wexAAA,AGS Calderside Battery Energy Storage System,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000010wfHAAQ,Cilfynydd BESS,Scoping,Energy Storage System,TRUE,0,349.9
+a0l8e0000010wfRAAQ,Rigifa BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010wg0AAA,Pamber Farm,Awaiting Consents,Energy Storage System,TRUE,0,480
+a0l8e0000010wg5AAA,Alderton PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,450
+a0l8e0000010wgFAAQ,Nant Helen,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000010wgUAAQ,Spalding PV and BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e0000010wh3AAA,Peterhead PV and BESS Station,Awaiting Consents,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e0000010wh8AAA,Elstree BESS NP,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000010wiLAAQ,St Marys Isle Solar Farm,Consents Approved,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,36
+a0l8e0000010wiVAAQ,TH Stocking Pelham,Scoping,Energy Storage System,TRUE,0,400
+a0l8e0000010wjdAAA,NEL Bluebell,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000010wjnAAA,Eskrigg End BESS,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000010wk2AAA,Dalchork Farm,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010wkCAAQ,Gresham House Dalmarnock BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000010wkgAAA,Saltcoats NEP BESS Facility,Awaiting Consents,Energy Storage System,TRUE,0,100
+a0l8e0000010wkqAAA,NEL Tiger,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010wkvAAA,NEL Nicholson,Scoping,Energy Storage System,TRUE,0,180
+a0l8e0000010wl0AAA,Blyth BESS,Scoping,Energy Storage System,TRUE,0,450
+a0l8e0000010wloAAA,Bellbroughton Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000010wltAAA,Dunclent Battery Storage,Scoping,Energy Storage System,TRUE,0,400
+a0l8e0000010wlyAAA,Innerwick BESS,Scoping,Energy Storage System,TRUE,0,170
+a0l8e0000010wysAAA,Stallingborough PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000010x0KAAQ,Lightsource Mount Annan BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e0000010x1NAAQ,Carbon Free 2030,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000010x1cAAA,Spennymoor PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e0000010x1hAAA,Myreton BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010x1mAAA,Hipsey BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000010xIgAAI,Carberry BESS  (was Smeaton BESS),Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010xJ0AAI,Saltholme BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010xJ5AAI,L48 BESS Glen App,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010xRkAAI,Lovat Estate BESS,Consents Approved,Energy Storage System,TRUE,0,49.9
+a0l8e0000010xRpAAI,L48 BESS Burnside,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010xRuAAI,MALTBY DEV.,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e0000010xS4AAI,Riccarton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e0000010xfQAAQ,TH Stow Manor,Awaiting Consents,Energy Storage System,TRUE,0,400
+a0l8e0000010xgoAAA,Blackpool BESS,Built,Energy Storage System,TRUE,25.3,25.3
+a0l8e0000010xh3AAA,Wright Street BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e0000010xh8AAA,Tealing Energy Park,Scoping,Energy Storage System,TRUE,0,1400
+a0l8e0000010xhIAAQ,Isenau Four,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000010xi1AAA,Akku Tealing Battery Storage,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000010xikAAA,GH DEVCO Gretna Green BESS,Scoping,Energy Storage System,TRUE,0,56
+a0l8e0000011xZ7AAI,Elland BESS,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000011xZRAAY,EcoMossmorran,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e0000011xZWAAY,Dunmill Energy Storage,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e0000011xwRAAQ,ER MSM Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,200
+a0l8e0000011xxFAAQ,Lochore BESS,Scoping,Energy Storage System,TRUE,0,900
+a0l8e0000011xxPAAQ,New Cumnock BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,450
+a0l8e0000011xxoAAA,Berwick Solar Wind and Battery Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,100
+a0l8e0000011xxpAAA,Ardonald Wind Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,200
+a0l8e0000011xxtAAA,Hawthorn BESS,Awaiting Consents,Energy Storage System,TRUE,0,200
+a0l8e0000011y2SAAQ,Wymondley BESS Limited,Awaiting Consents,Energy Storage System,TRUE,0,35.5
+a0l8e0000011y2hAAA,Craig Moss Farm,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000011y2mAAA,Kirklands Farm BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000011y79AAA,Motherwell 400MW BESS (Formerly Castlehill BESS),Scoping,Demand;Energy Storage System,FALSE,0,400
+a0l8e0000011y7JAAQ,Kynachan,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000011yBvAAI,ER BBR Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000011yC5AAI,West Saval Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000011yGUAAY,Somerset Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000011yOzAAI,Shotwick BESS,Scoping,Energy Storage System,TRUE,0,349.98999999999995
+a0l8e0000011yTTAAY,Barking BESS,Consents Approved,Energy Storage System,TRUE,0,99.9
+a0l8e0000011yXgAAI,Clean Planet Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,500
+a0l8e0000011yYUAAY,Cold Norton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1250
+a0l8e0000011ycrAAA,TH West Weybridge,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000011yd6AAA,Ashbrook Lane BESS,Scoping,Energy Storage System,TRUE,0,249.9
+a0l8e0000011ydaAAA,Low Carbon Energy Centre BESS Joyce Green Lane,Scoping,Energy Storage System,TRUE,0,250
+a0l8e0000011yiJAAQ,Rogerton Cottage BESS,Scoping,Energy Storage System,TRUE,0,55
+a0l8e0000011ymbAAA,Airds Hill Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,80
+a0l8e0000011ymgAAA,Ratcliffe Kegworth Road BEGA,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,140
+a0l8e0000011yrKAAQ,Lackenby PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e0000011yx6AAA,Lynefield BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000011yxGAAQ,EcoKincardine,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249
+a0l8e0000011yxHAAQ,EcoKilwinning,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0l8e0000011z1iAAA,Newton of Park BESS 2,Scoping,Energy Storage System,TRUE,0,50
+a0l8e0000011z1xAAA,Gilbertfield Farm BESS,Scoping,Energy Storage System,TRUE,0,40
+a0l8e0000011z3KAAQ,Keith BESS Station,Scoping,Energy Storage System,TRUE,0,400
+a0l8e0000011z3PAAQ,Glasgow Road 40MW BESS,Scoping,Energy Storage System,TRUE,0,40
+a0l8e0000011zBpAAI,GF Upper Boat,Scoping,Energy Storage System;Reactive Compensation,FALSE,0,200
+a0l8e0000011zGEAAY,Langbank Solar and BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l8e0000011zGOAAY,Denny BESS,Scoping,Energy Storage System,TRUE,0,350
+a0l8e0000011zGTAAY,Coldstream BESS,Scoping,Energy Storage System,TRUE,0,50
+a0l8e0000011zKgAAI,Mickleham Energy Storage,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000011zKlAAI,Bankhead 25MW BESS,Scoping,Energy Storage System,TRUE,0,25
+a0l8e0000011zPIAAY,Beddington 2 BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000011zPXAAY,Craigneuk 250MW BESS,Scoping,Demand;Energy Storage System,FALSE,0,250
+a0l8e0000011zPmAAI,Bendsmoor BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000011zPwAAI,Bishopbriggs 500MW BESS,Scoping,Demand;Energy Storage System,FALSE,0,500
+a0l8e0000011zQGAAY,Lower Pool Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e0000011zZ5AAI,SAE Usk 1,Scoping,Energy Storage System,TRUE,0,349
+a0l8e0000011ziLAAQ,Hawkhill BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000011zmYAAQ,Ayr Farm,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000011zs8AAA,Glennifer Road BESS,Consents Approved,Energy Storage System,TRUE,0,150
+a0l8e0000011zs9AAA,Auchentiber Farm 700MW BESS,Scoping,Energy Storage System,TRUE,0,700
+a0l8e0000012012AAA,Talladh a Bheithe,Scoping,Energy Storage System,TRUE,0,20
+a0l8e000001201CAAQ,Barnby Solar Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000001201HAAQ,Ferrybridge B - NEL Hunter,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001201MAAQ,Leslie 200MW BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001205eAAA,Murroch BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001205tAAA,Rhigos BESS,Scoping,Energy Storage System,TRUE,0,225
+a0l8e0000012063AAA,Imperial Park BESS,Scoping,Energy Storage System,TRUE,0,225
+a0l8e00000120IgAAI,Spittal BESS Station,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e00000120IhAAI,Tulliallan BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e00000120IqAAI,Fryston Lane 100MW BESS,Scoping,Energy Storage System,TRUE,0,100
+a0l8e00000120NNAAY,Market Harborough Green Energy Hub,Scoping,Energy Storage System;Hydro;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e00000120NSAAY,Little Horsted Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1260
+a0l8e00000120NcAAI,Rugby High Impact Green Energy Hub (HIGEH) 1,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e00000120O1AAI,Meiklelaught Farm BESS,Scoping,Energy Storage System,TRUE,0,30
+a0l8e0000012eVgAAI,Glenside Farm BESS,Scoping,Demand;Energy Storage System,FALSE,0,400
+a0l8e0000012eVvAAI,NatPower Yaxley Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e0000012eeLAAQ,Kennishead,Scoping,Energy Storage System,TRUE,0,40
+a0l8e0000012eoAAAQ,Graeme Road Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,550
+a0l8e0000012eoKAAQ,Cairnborrow Wind Energy Hub,Scoping,Energy Storage System;Wind Onshore,FALSE,0,43.2
+a0l8e0000012eoUAAQ,Ryhall PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e0000012etVAAQ,Conrad (Basingstoke) Limited,Built,Energy Storage System,TRUE,20,20
+a0l8e0000012etfAAA,Conrad (Swindon) Limited,Built,Energy Storage System,TRUE,19,19
+a0l8e0000012euEAAQ,Conrad (Torquay) Limited,Built,Energy Storage System,TRUE,22,22
+a0l8e0000012eyYAAQ,NatPower Allington Green Energy Park,Awaiting Consents,Energy Storage System,TRUE,0,1000
+a0l8e0000012eydAAA,Hurst BESS,Scoping,Energy Storage System,TRUE,0,212
+a0l8e0000012ezHAAQ,Highland Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,168
+a0l8e0000012ezRAAQ,17 Acres and BESS,Scoping,Energy Storage System,TRUE,0,95.76
+a0l8e0000012f3tAAA,Banc y Celyn Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,165
+a0l8e0000012g8WAAQ,Kirkan Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,81.6
+a0l8e0000012gHLAAY,Noventum -Long Stratton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,460
+a0l8e0000012gLdAAI,Greenburn Wind & BESS,Scoping,Energy Storage System;Wind Onshore,FALSE,0,49.9
+a0l8e0000012gYMAAY,NEL Suggit,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012gYQAAY,NEL Limes,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012gYuAAI,Denton Estate Solar PV and BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,129
+a0l8e0000012gZ9AAI,Chessington Estate,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012gbUAAQ,NatPower Gwyddelwern Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e0000012gbZAAQ,Dunan Hill,Scoping,Energy Storage System;Wind Onshore,FALSE,0,249.9
+a0l8e0000012gbjAAA,West Botley High Impact Green Energy Hub,Scoping,Demand;Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012gbtAAA,Acton Reynald,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0l8e0000012gc3AAA,Shaw Lane BESS,Scoping,Energy Storage System,TRUE,0,230
+a0l8e0000012gc8AAA,Wacton Road Farm,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012gcDAAQ,Wymondham Road Farm,Scoping,Energy Storage System,TRUE,0,228
+a0l8e0000012gcNAAQ,Tyler Hill Bicker Fen,Scoping,Energy Storage System,TRUE,0,400
+a0l8e0000012ghJAAQ,Upper College Farm BESS,Scoping,Energy Storage System,TRUE,0,480
+a0l8e0000012ghOAAQ,Patmores (Mott Street),Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012gmlAAA,Forepower Lincoln (250) Ltd,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012groAAA,Stirling BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000012grtAAA,Butlers Wood PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0l8e0000012gs3AAA,Blanket’s Farm,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012gscAAA,Biggleswade High Impact Green Energy Hub,Scoping,Demand;Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012gsmAAA,Mybster 2 Battery Storage,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012gtGAAQ,Borders Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,228
+a0l8e0000012gtaAAA,Redhall BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000012gtkAAA,Ayr Flexpower,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,450
+a0l8e0000012gtuAAA,Butt Lane - Grimsby BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012gtzAAA,Devonhill,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012guYAAQ,Greta IV (b),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000012gudAAA,Greta IV (c),Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012guiAAA,Greta IV (d),Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012hmnAAA,Brodsworth High Impact Green Energy Hub (Brodsworth HIGEH),Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hmsAAA,Huntingdon High Impact Energy Hub 1,Awaiting Consents,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hmxAAA,Huntingdon High Impact Energy Hub 2,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hn2AAA,Melton Mowbray High Impact Energy Hub 1,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hn7AAA,Melton Mowbray High Impact Energy Hub 2,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hngAAA,Fyrish Battery Storage,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012hnlAAA,Middleshaw BESS,Consents Approved,Energy Storage System,TRUE,0,200
+a0l8e0000012hnqAAA,Spalding High Impact Energy Hub,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012ho5AAA,Glen Lednock,Scoping,Energy Storage System;Wind Onshore,FALSE,0,165
+a0l8e0000012hoFAAQ,Stretchford Farm Solar and Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0l8e0000012hoPAAQ,Necton High Impact Energy Hub,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hoUAAQ,Newchurch High Impact Energy Hub,Scoping,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,1000
+a0l8e0000012hotAAA,Rutherend Farm,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012hp3AAA,FPE Ayr BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012hp8AAA,EPL Hampshire,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e0000012hpDAAQ,Drinkstone Hybrid,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,55
+a0l8e0000012hpSAAQ,Galileo 15,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012hpXAAQ,Chapel Rush Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0l8e0000012hpYAAQ,Oak Holt Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e0000012hpcAAA,Enderby Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000012hphAAA,Bernicia Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,350
+a0l8e0000012hpwAAA,AGS Coatbridge,Scoping,Energy Storage System,TRUE,0,60
+a0l8e0000012hq6AAA,Bexley GEC - Hurst Grid Park  2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,228
+a0l8e0000012hvYAAQ,St Fergus,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0l8e0000012hwCAAQ,Kinoulton Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000012hwMAAQ,NatPower Tilbury Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e0000012hwWAAQ,Water Orton,Scoping,Energy Storage System,TRUE,0,150
+a0l8e0000012hwbAAA,Strath Oykel Wind Farm,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,74
+a0l8e0000012hwgAAA,NatPower Immingham Green Energy Park,Awaiting Consents,Energy Storage System,TRUE,0,1000
+a0l8e0000012hxtAAA,Overton Grange BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000012hy8AAA,NatPower-Medway Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e0000012i2aAAA,Afan Wind Farm and BESS,Scoping,Energy Storage System;Wind Onshore,FALSE,0,150
+a0l8e0000012i3YAAQ,Amersham Substation,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012i3dAAA,Fort Augustus BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012i3xAAA,Tyler Hill Ansty,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012iy3AAA,SAVE OUR PLANET,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000012j2rAAA,Clune Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,187.2
+a0l8e0000012j8lAAA,Netherton BESS,Scoping,Energy Storage System,TRUE,0,400
+a0l8e0000012j9FAAQ,Brae WF,Scoping,Energy Storage System;Wind Onshore,FALSE,0,20
+a0l8e0000012j9KAAQ,Noventum -New Marton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,510
+a0l8e0000012j9PAAQ,Noventum - Astwood,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,480
+a0l8e0000012jDoAAI,Garlogie PV and BESS A-1,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jDtAAI,Garlogie PV and BESS A-2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jIBAAY,WHITEHILL BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012jIGAAY,Garlogie B-1,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jILAAY,Garlogie B-2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jIQAAY,Garlogie C-1,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jIVAAY,Garlogie C-2,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e0000012jIzAAI,UK105-B Upland Arms,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000012jJ4AAI,Noventum- Bridgwater,Scoping,Energy Storage System,TRUE,0,380
+a0l8e0000012jJEAAY,Noventum - Budby,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,380
+a0l8e0000012jJiAAI,Moffat BESS,Scoping,Energy Storage System,TRUE,0,500
+a0l8e0000012jKHAAY,Noventum - Stocksbridge,Scoping,Energy Storage System,TRUE,0,410
+a0l8e0000012jKMAAY,Manquhill Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,56
+a0l8e0000012jKWAAY,Divot Hill Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,63
+a0l8e0000012jKlAAI,Bute Hydrogen Project 7.1,Scoping,Energy Storage System,TRUE,0,2400
+a0l8e0000012jKvAAI,Crossgatehall BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e0000012jL0AAI,Mill Hey_Capenhurst BESS,Scoping,Energy Storage System,TRUE,0,199.6
+a0l8e0000012jPIAAY,BlackDyke BESS,Scoping,Energy Storage System,TRUE,0,250
+a0l8e0000012jPXAAY,Braegrundie Farm,Awaiting Consents,Energy Storage System,TRUE,0,95
+a0l8e0000012jPcAAI,Greengage Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e0000012jUBAAY,Ebstree Road BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e0000012jUGAAY,ALYTH ENERGY STORAGE AND SOLAR,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e0000012kcTAAQ,Kingsfold,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l8e0000012kciAAA,Drakelow Power Station 3 BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e0000012kfbAAA,Kingsnorth Power Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e0000012kfgAAA,Old Park Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000012khcAAA,East Lincolnshire Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0l8e0000012kikAAA,Perry Barr BESS,Scoping,Energy Storage System,TRUE,0,249
+a0l8e0000012kjJAAQ,Dounreay BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012kjdAAA,Netherton Hub Bess,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012kjiAAA,Field Glenniston BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012kjsAAA,Broadford BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012kk2AAA,New Deer 2 BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e0000012kkHAAQ,Greenock Road BESS,Scoping,Energy Storage System,TRUE,0,250
+a0l8e0000012kkqAAA,Windburn,Scoping,Energy Storage System;Wind Onshore,FALSE,0,75
+a0l8e0000012kqNAAQ,Balinoe Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,160.6
+a0l8e0000012kr1AAA,New Little Horsted 200MW Solar and BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e0000012krQAAQ,Wick Moor Drove,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,500
+a0l8e0000012krVAAQ,Saver & Pashley Farm Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,129.9
+a0l8e000001HntMAAS,014 NEP Bransholme,Scoping,Energy Storage System,TRUE,0,40
+a0l8e000001HnxlAAC,Navenby Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000001Hny0AAC,Knarie,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,297
+a0l8e000001Ho7SAAS,Creyke Beck Battery 2,Consents Approved,Energy Storage System,TRUE,0,28.5
+a0l8e000001HoBfAAK,West Melton PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0l8e000001HoBkAAK,Halfway Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000.2900000000001
+a0l8e000001HoFxAAK,Drakelow Power Station 1 BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000001HoKyAAK,Project Number 8,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000001HoTYAA0,Harrington Franklin Limited,Awaiting Consents,Energy Storage System,TRUE,0,49.949999999999996
+a0l8e000001HoTdAAK,Oxfordshire Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000001HoYoAAK,Devol Moor Battery & Solar Project,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000001Hod1AAC,Zenobe Butler's Wood BESS,Scoping,Energy Storage System,TRUE,0,330
+a0l8e000001Hod6AAC,Zenobe Hawthorn Pit BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000001HodGAAS,Zenobe Yaxley BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000001HodQAAS,Lightsource Pyworthy,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000001Hom7AAC,Noventum Cottered,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,210
+a0l8e000001HomMAAS,Lacey's Farm BESS,Scoping,Energy Storage System,TRUE,0,924
+a0l8e000001Hoz9AAC,Swansea North-Rhigos Solar& BESS & Wind,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,400
+a0l8e000001HozEAAS,Cottam-Ryhall Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000001HozdAAC,Garscadden Park,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001HpCVAA0,Rhigos BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001HpCfAAK,TH Ninfield,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001HpUOAA0,Balrobert Farm BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000001HpUdAAK,Middleton Farm BESS,Scoping,Energy Storage System,TRUE,0,937
+a0l8e000001HpUiAAK,Lime Tree Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000001HpdtAAC,TH Knaresborough,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001Hpe3AAC,NatPower Enderby - Patford Bridge Green Energy Park,Scoping,Energy Storage System,TRUE,0,1799
+a0l8e000001Hpe8AAC,Project Invicta,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,350
+a0l8e000001HpeDAAS,Tyler Hill Iver,Awaiting Consents,Energy Storage System,TRUE,0,199.92000000000002
+a0l8e000001HpeXAAS,Welbeck-Newark Solar Farm - PVDP,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,710
+a0l8e000001HpecAAC,New Marton Solar Farm - PVDP,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,780
+a0l8e000001HpehAAC,Ludgershall - Bicester Solar Farm PVDP,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000001HpemAAC,Thornton PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000001HperAAC,Willington PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000001HpewAAC,Catsfield,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000001HpfGAAS,Glentaggart 150MW BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000001HpjiAAC,Salters Battery Storage,Awaiting Consents,Energy Storage System,TRUE,0,200
+a0l8e000001HpwkAAC,Newtonwood BESS,Built,Energy Storage System,TRUE,49.9,49.9
+a0l8e000001Hq1lAAC,Dove Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000001Hq20AAC,Lightsource Threepwood,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000001Hq2FAAS,Killoch BESS,Scoping,Energy Storage System,TRUE,0,150
+a0l8e000001Hr2mAAC,Scaw Law Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,60
+a0l8e000001Hr31AAC,Strichen North BESS,Scoping,Energy Storage System,TRUE,0,25
+a0l8e000001HrCAAA0,TH Renfrewshire,Scoping,Energy Storage System,TRUE,0,250
+a0l8e000001HrCKAA0,NatPower Nursling Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000001HrDXAA0,Minnygryle Burn Energy Park,Scoping,Energy Storage System;Wind Onshore,FALSE,0,84
+a0l8e000001HrYtAAK,NatPower Teesside Green Energy Park,Consents Approved,Energy Storage System,TRUE,0,1000
+a0l8e000001HrYyAAK,Deucheran Hill 2 Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,165
+a0l8e000001HrdGAAS,Westfield BESS,Scoping,Energy Storage System,TRUE,0,350
+a0l8e000001HrhdAAC,Patford Bridge PV & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0l8e000001HrhiAAC,Lagrae Battery Storage,Scoping,Energy Storage System,TRUE,0,400
+a0l8e000001HrhnAAC,Bridgwater Energy Park,Scoping,Energy Storage System,TRUE,0,249.99
+a0l8e000001HrhsAAC,AGS Nerston BESS,Scoping,Energy Storage System,TRUE,0,50
+a0l8e000001Hrm5AAC,Cockenzie BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,102
+a0l8e000001HrmUAAS,Achanalt Battery Storage,Scoping,Energy Storage System,TRUE,0,49.9
+a0l8e000001Hrv9AAC,AGS Nerston 2 BESS,Scoping,Energy Storage System,TRUE,0,55
+a0l8e000001HrvEAAS,AGS Nerston 3 BESS,Scoping,Energy Storage System,TRUE,0,55
+a0l8e000001HrvJAAS,GF SELLINDGE BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000001HwvEAAS,Coylton Farm,Awaiting Consents,Energy Storage System,TRUE,0,300
+a0l8e000001HxQKAA0,Drakelow Power Station 2 BESS,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000001HxQjAAK,Shurton BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001HxQoAAK,Hurst BESS,Scoping,Energy Storage System,TRUE,0,320
+a0l8e000001HxRDAA0,STABLE GREEN ENERGY,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000001HxRIAA0,Severn Road Avonmouth,Scoping,Energy Storage System;Gas Reciprocating,FALSE,0,135
+a0l8e000001HxRSAA0,Ravengill Renewable Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,249.9
+a0l8e000001HxRXAA0,Watchman Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,249.9
+a0l8e000001HxRcAAK,Boreland BESS,Scoping,Energy Storage System,TRUE,0,43
+a0l8e000001Hxa9AAC,Barry Road Storage,Scoping,Energy Storage System,TRUE,0,110
+a0l8e000001HxadAAC,Land at Leitholm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0l8e000001HxasAAC,KINKHALL266MW BESS BEGA (Kinkell),Scoping,Energy Storage System,TRUE,0,266
+a0l8e000001HxaxAAC,Manor Farm,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000001Hxb2AAC,Woodlands Farm BESS,Scoping,Energy Storage System,TRUE,0,227.5
+a0l8e000001HxbCAAS,MCKRAW99MW BESS BEGA,Scoping,Energy Storage System,TRUE,0,99.9
+a0l8e000001HxbWAAS,Sutton Courtenay,Scoping,Demand;Energy Storage System,FALSE,0,150
+a0l8e000001HxbbAAC,Laleham BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001HxblAAC,NatPower Penrith Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0l8e000001HxbqAAC,Biggleswade BESS,Scoping,Energy Storage System,TRUE,0,200
+a0l8e000001Hxc5AAC,Kincorth BESS,Scoping,Energy Storage System,TRUE,0,19.8
+a0l8e000001HxcZAAS,Woodcock Hill Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,90
+a0l8e000001HxceAAC,Locharber,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0l8e000001HxldAAC,Fairmead and Yewtree Farm,Scoping,Energy Storage System,TRUE,0,240
+a0l8e000001HxliAAC,Brae House Farm,Scoping,Energy Storage System,TRUE,0,500
+a0l8e000001HxlxAAC,Bicker Fen,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0l8e000001Hxm2AAC,West Oxfordshire Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0l8e000001Hxm7AAC,Barrow,Scoping,Energy Storage System,TRUE,0,30
+a0l8e000001HxmCAAS,Strathaven BESS,Scoping,Energy Storage System,TRUE,0,300
+a0l8e000001HxmMAAS,Contullich BESS,Scoping,Energy Storage System,TRUE,0,45
+a0l8e000001HxwDAAS,Llanwern 3,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,95
+a0l8e000001Hy11AAC,BF88 Oakley,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1000
+a0l8e000001Hy5OAAS,Brunt Hill Wind Farm,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,99
+a0l8e000001Hy5TAAS,Stockhills Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,800
+a0l8e000001Hy5YAAS,West Weybridge,Consents Approved,Energy Storage System,TRUE,0,57
+a0l8e000001Hy9vAAC,Foel Fach Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,79.2
+a0l8e000001I31pAAC,NatPower Kinoulton Green Energy Park,Scoping,Energy Storage System,TRUE,0,1330
+a0lJ900000000XVIAY,Camp Farm,Scoping,Energy Storage System,TRUE,0,249.9
+a0lJ900000000XfIAI,Trafford 2 BESS,Scoping,Energy Storage System,TRUE,0,1400
+a0lJ9000000MK6zIAG,Care Wolverhampton BEGA,Built,Energy Storage System,TRUE,49.9,49.9
+a0lJ9000000MK74IAG,Care North Tawton BEGA,Built,Energy Storage System,TRUE,30,30
+a0lJ9000000MMn0IAG,Danks Way BESS,Under Construction/Commissioning,Energy Storage System,TRUE,0,99.4
+a0lJ9000000PDl3IAG,Eggborough BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PDlIIAW,Mid Hill,Scoping,Energy Storage System;Wind Onshore,FALSE,0,228
+a0lJ9000000PDlrIAG,Melton Mowbray Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,340
+a0lJ9000000PDlwIAG,Blackbraes PV+BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0lJ9000000PDm1IAG,NatPower Navenby Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0lJ9000000PDm6IAG,Lythmore,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0lJ9000000PDmBIAW,Drakelow Power Station 4,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000PDmGIAW,Bargatton Farm BESS,Scoping,Energy Storage System,TRUE,0,100
+a0lJ9000000PDmaIAG,Craigdarroch Hybrid Wind and BESS,Scoping,Energy Storage System;Wind Onshore,FALSE,0,159.2
+a0lJ9000000PDmkIAG,Creag Dhubh Windfarm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,171
+a0lJ9000000PDmzIAG,Cott's Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0lJ9000000PDq5IAG,Dungeness Energy Park (Dungeness 400kV),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0lJ9000000PDqZIAW,Caorach,Scoping,Energy Storage System;Wind Onshore,FALSE,0,81
+a0lJ9000000PDr3IAG,Galileo 07 Limited,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,150
+a0lJ9000000PDr8IAG,Peat Law Renewable Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,253.28
+a0lJ9000000PDrNIAW,Lessnessock Energy Park,Scoping,Energy Storage System,TRUE,0,114
+a0lJ9000000PDspIAG,NatPower CoalBurn Green Energy Park,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000PDsuIAG,Acheilidh Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,84.2
+a0lJ9000000PDszIAG,NEL Conway2,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000PDt9IAG,Grantham Solar Farm - RSL,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,810
+a0lJ9000000PDtEIAW,The Beacon,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,1200
+a0lJ9000000PDtTIAW,Boreham,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0lJ9000000PDtYIAW,Pollington Hybrid,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,440
+a0lJ9000000PDtdIAG,Royle Farm BESS,Consents Approved,Energy Storage System,TRUE,0,90
+a0lJ9000000PDu2IAG,Sweet Briar Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,800
+a0lJ9000000PDuCIAW,NatPower Oswestry Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0lJ9000000PDuHIAW,Taigh an Uillt Energy Storage Park,Scoping,Energy Storage System,TRUE,0,49.9
+a0lJ9000000PDuvIAG,Patford Bridge BESS,Scoping,Energy Storage System,TRUE,0,228
+a0lJ9000000PDv0IAG,Balnespick Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,58
+a0lJ9000000PDvPIAW,Ninfield BESS,Scoping,Energy Storage System,TRUE,0,225
+a0lJ9000000PDvoIAG,Church Road Farm,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PDw8IAG,Strawberry Farm,Scoping,Energy Storage System,TRUE,0,277.9
+a0lJ9000000PDwIIAW,UK057-B	Whatton Estate,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,130
+a0lJ9000000PDx1IAG,Lanehurst Farm BESS,Scoping,Energy Storage System,TRUE,0,225
+a0lJ9000000PDxkIAG,Great Oak Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,700
+a0lJ9000000PDxzIAG,Coachford 400MW BESS,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PDyYIAW,Field Kinardochy BESS,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PDydIAG,Stack Hill Solar and Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,350
+a0lJ9000000PDyiIAG,Prestwold BESS,Scoping,Energy Storage System,TRUE,0,150
+a0lJ9000000PDysIAG,Barns of Wedderburn (ABEI ENERGY GREEN VI),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,18
+a0lJ9000000PDz2IAG,Woodland Ridge,Scoping,Energy Storage System;Wind Onshore,FALSE,0,150
+a0lJ9000000PDz7IAG,Feckenham 100MW BESS,Scoping,Energy Storage System,TRUE,0,100
+a0lJ9000000PDzHIAW,Stella Battery Energy Storage,Consents Approved,Energy Storage System,TRUE,0,78
+a0lJ9000000PDzbIAG,Rayleigh GP3,Scoping,Energy Storage System,TRUE,0,30
+a0lJ9000000PEAsIAO,KXP Immingham,Built,Energy Storage System,TRUE,80,80
+a0lJ9000000PEB7IAO,BTGBBIK01 - BICKER FEN 400MW BESS,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PEBCIA4,GALILEO 16,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,125
+a0lJ9000000PEBRIA4,Pitkevy BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PEBlIAO,NatPower Harburn Green Energy Park,Scoping,Energy Storage System,TRUE,0,800
+a0lJ9000000PEDSIA4,Witney BESS,Scoping,Energy Storage System,TRUE,0,150
+a0lJ9000000PEEJIA4,Tarvie Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,77
+a0lJ9000000PEENIA4,Martindale Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,239.9
+a0lJ9000000PEEsIAO,Culachy Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,115
+a0lJ9000000PEG1IAO,Limekiln Extension 2,Scoping,Energy Storage System;Wind Onshore,FALSE,0,171
+a0lJ9000000PEOWIA4,Leuchland Energy Centre A,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0lJ9000000PEOgIAO,Leuchland Energy Centre B,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,57
+a0lJ9000000PEQcIAO,Longside BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PERuIAO,Waltham Cross PV & BESS Sub,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,249.9
+a0lJ9000000PERzIAO,Hylton Bridge - Sunderland,Scoping,Demand;Energy Storage System,FALSE,0,200
+a0lJ9000000PEjSIAW,Balgray Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,43.2
+a0lJ9000000PEnkIAG,Edrom Green Energy Park,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PExwIAG,CRT Keadby 2,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000PEy6IAG,Upminster Warley 3,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000PEyBIAW,Seat Hill Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,90
+a0lJ9000000PF4HIAW,Shielburn Energy Park,Scoping,Energy Storage System,TRUE,0,49.5
+a0lJ9000000PF4WIAW,Scawd Law Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,64
+a0lJ9000000PFDVIA4,Wern Tarw Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,249
+a0lJ9000000PFDaIAO,Mwyndy Storage,Scoping,Energy Storage System,TRUE,0,249
+a0lJ9000000PFEsIAO,Thurcroft Storage,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PFJUIA4,Vale of Neath (Rhigos Road),Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,120
+a0lJ9000000PFJZIA4,Old Stoke Rd BESS,Scoping,Energy Storage System,TRUE,0,105
+a0lJ9000000PFJeIAO,Crawcroft Lane Solar and Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0lJ9000000PFJtIAO,Fairgreen Energy Storage,Scoping,Energy Storage System,TRUE,0,150
+a0lJ9000000PFovIAG,Woodheads Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,100
+a0lJ9000000PGmHIAW,YAMAL BESS,Scoping,Energy Storage System,TRUE,0,50
+a0lJ9000000PGmRIAW,Scotton,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PH5LIAW,Pigeon House BESS,Scoping,Energy Storage System,TRUE,0,120
+a0lJ9000000PM5NIAW,Beinn Dearg,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,290
+a0lJ9000000PMDzIAO,High Marnham 400MW Field BESS,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000PMIYIA4,Kyllachy Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,91
+a0lJ9000000PMIsIAO,ESB Harker BESS,Scoping,Energy Storage System,TRUE,0,342
+a0lJ9000000PMNbIAO,Beanacre 2 BESS,Scoping,Energy Storage System,TRUE,0,249
+a0lJ9000000PMW3IAO,NAVAS BESS,Scoping,Energy Storage System,TRUE,0,49.9
+a0lJ9000000PMekIAG,Lees Hill Renewable Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,54
+a0lJ9000000PMvuIAG,Hagshaw LDES,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000PN5CIAW,Mount Pleasant,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PN5RIAW,Breackerie  wind farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,90.8
+a0lJ9000000PNEjIAO,Craiglarie Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,170
+a0lJ9000000PNJcIAO,Ballach,Scoping,Energy Storage System;Wind Onshore,FALSE,0,149
+a0lJ9000000PNJrIAO,Glenvernoch,Scoping,Energy Storage System;Wind Onshore,FALSE,0,95.8
+a0lJ9000000PNJwIAO,Meall Dearg,Scoping,Energy Storage System;Wind Onshore,FALSE,0,150.2
+a0lJ9000000PNK6IAO,Coille Linne,Scoping,Energy Storage System;Wind Onshore,FALSE,0,113
+a0lJ9000000PNKMIA4,Pitcox BESS,Scoping,Energy Storage System,TRUE,0,95.76
+a0lJ9000000PNKRIA4,GIFFORDLAND 200MW FIELD BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000PNPAIA4,Jamesfield 3,Scoping,Energy Storage System,TRUE,0,50
+a0lJ9000000PNPFIA4,High Netherfauld Farm BESS,Scoping,Energy Storage System,TRUE,0,504
+a0lJ9000000PNpYIAW,Vicarage Drove BESS Limited,Scoping,Energy Storage System,TRUE,0,160
+a0lJ9000000PNyAIAW,Melvich Wind Energy Hub (BEGA),Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,43.2
+a0lJ9000000POOiIAO,Galileo 14 Ltd,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000POPvIAO,Quintfall Forest Hybrid Wind and BESS 1,Scoping,Energy Storage System;Wind Onshore,FALSE,0,98.5
+a0lJ9000000POQ5IAO,Lincolnshire Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,FALSE,0,500
+a0lJ9000000POV3IAO,Brentford (SSEN-FBT624) -120MW BESS,Scoping,Energy Storage System,TRUE,0,120
+a0lJ9000000POVhIAO,Achies BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000POVrIAO,Cliffhope,Scoping,Energy Storage System;Wind Onshore,FALSE,0,205
+a0lJ9000000POaJIAW,Kellhead,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,200
+a0lJ9000000POaOIAW,Rattray BESS and Solar Plant,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0lJ9000000POadIAG,Swainsthorpe,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0lJ9000000POfCIAW,Kinder PV & BESS Station,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0lJ9000000POfHIAW,Glenfiddich West,Scoping,Demand;Energy Storage System;Wind Onshore,FALSE,0,600
+a0lJ9000000POgFIAW,Windburn Wind Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,75
+a0lJ9000000POh8IAG,Mynydd Y Gwynt,Scoping,Energy Storage System;Wind Onshore,FALSE,0,100
+a0lJ9000000POi1IAG,Clyde South Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,120
+a0lJ9000000POiVIAW,Ditcher Law,Awaiting Consents,Energy Storage System;Wind Onshore,FALSE,0,53
+a0lJ9000000POjeIAG,Cambridgeshire Energy Storage Centre,Scoping,Energy Storage System;Pump Storage;Thermal,FALSE,0,500
+a0lJ9000000POk8IAG,Flinton Road,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,600
+a0lJ9000000POtaIAG,Longhaven Energy Storage Centre,Scoping,Energy Storage System;Pump Storage;Thermal,FALSE,0,500
+a0lJ9000000POtfIAG,Glenmoy Wind Solar & BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,224
+a0lJ9000000POtpIAG,Colmealie Wind - Solar - BESS Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,112
+a0lJ9000000Pa9MIAS,Frome Valley Energy Park,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,43.2
+a0lJ9000000PaqdIAC,Longriggs Energy Park,Awaiting Consents,Energy Storage System,TRUE,0,60
+a0lJ9000000PeRfIAK,Care Brentwood BEGA,Built,Energy Storage System,TRUE,49.9,49.9
+a0lJ9000000PeRpIAK,Care Erskine BEGA,Built,Energy Storage System,TRUE,29.9,29.9
+a0lJ9000000Pj5rIAC,Care Power Berkeley BEGA,Built,Energy Storage System,TRUE,49.9,49.9
+a0lJ9000000blJJIAY,Hurlet Battery,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000blJnIAI,New Marton GEC,Scoping,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,FALSE,0,550
+a0lJ9000000blK7IAI,NatPower Connah Quay Green Energy Park,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000blKCIAY,Galileo 09,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,297
+a0lJ9000000blKHIAY,Astwood  Solar Farm GEC,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,520
+a0lJ9000000blKbIAI,Burdiehouse BESS,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000blKgIAI,GALILEO 12 LIMITED,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,150.8
+a0lJ9000000blKlIAI,Chesters,Scoping,Energy Storage System;Wind Onshore,FALSE,0,80
+a0lJ9000000blKvIAI,NatPower Llanteg Green Energy Park,Scoping,Energy Storage System,TRUE,0,47.5
+a0lJ9000000blL0IAI,Lightsource Patford Bridge,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0lJ9000000blL5IAI,Lightsource Offerton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,240
+a0lJ9000000blLeIAI,Lightsource Jubilee Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,240
+a0lJ9000000blLjIAI,Baglan BESS IPC,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000blLtIAI,Lightsource Middleton,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,240
+a0lJ9000000blLyIAI,NatPower Hartlepool Green Energy Park,Scoping,Energy Storage System,TRUE,0,800
+a0lJ9000000blM8IAI,NatPower Hawthorn Pit Green Energy Park,Scoping,Energy Storage System,TRUE,0,1000
+a0lJ9000000blMDIAY,Lightsource New Eggborough,Scoping,Energy Storage System;Wind Onshore,FALSE,0,240
+a0lJ9000000blMIIAY,Woodbridge - Noventum,Scoping,Demand;Energy Storage System;Reactive Compensation,FALSE,0,400
+a0lJ9000000blMSIAY,Lightsource Willington,Scoping,Energy Storage System;Wind Onshore,FALSE,0,240
+a0lJ9000000blMXIAY,Lightsource Folly Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,240
+a0lJ9000000blMhIAI,Lightsourcebp Wakeleys Wind and BESS,Scoping,Energy Storage System;Wind Onshore,FALSE,0,240
+a0lJ9000000blMwIAI,Lightsource Bagots Farm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,240
+a0lJ9000000blOTIAY,Long Stratton BESS,Scoping,Energy Storage System,TRUE,0,400
+a0lJ9000000blOxIAI,Lightsourcebp Amlwch BESS and Hydrogen,Scoping,Demand;Energy Storage System,FALSE,0,600
+a0lJ9000000blP7IAI,Lightsource Berthlwyd,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,240
+a0lJ9000000blPHIAY,NatPower Kintore2 Green Energy Park,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000blPqIAI,Pelham 400,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0lJ9000000blPvIAI,Long Stratton 400,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,400
+a0lJ9000000blQKIAY,Long Buckby Solar/BESS,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0lJ9000000blQPIAY,Daviot Windfarm BEGA,Scoping,Energy Storage System;Wind Onshore,FALSE,0,45
+a0lJ9000000blVIIAY,Mosspark Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,50
+a0lJ9000000blZ0IAI,Hill House Farm Solar and Storage,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,99.9
+a0lJ9000000blZAIAY,GALILEO 08 LIMITED,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,100
+a0lJ9000000bla3IAA,Calon y Gwynt,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,FALSE,0,72
+a0lJ9000000blaXIAQ,Manor Farm_Sidcup,Scoping,Energy Storage System,TRUE,0,199.6
+a0lJ9000000blawIAA,Torness BESS Station,Scoping,Energy Storage System,TRUE,0,240
+a0lJ9000000bldHIAQ,Offerton 200MW BESS,Scoping,Energy Storage System,TRUE,0,200
+a0lJ9000000blhxIAA,South Street BESS,Scoping,Energy Storage System,TRUE,0,63
+a0lJ9000000blibIAA,Caithness Energy Storage,Scoping,Energy Storage System,TRUE,0,456
+a0lJ9000000bllyIAA,Killingholme Energy Park,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,500
+a0lJ9000000blm8IAA,Brigton of Ruthven BESS,Scoping,Energy Storage System,TRUE,0,500
+a0lJ9000000blmDIAQ,50MW BESS Connagill,Scoping,Energy Storage System,TRUE,0,50
+a0lJ9000000blmcIAA,Altnabreac Windfarm,Scoping,Energy Storage System;Wind Onshore,FALSE,0,130
+a0lJ9000000blmmIAA,Vicarage Drove BESS,Scoping,Energy Storage System,TRUE,0,1200
+a0lJ9000000blnBIAQ,Chirton Grange,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,49.9
+a0lJ9000000blnVIAQ,Cranwell Solar & BESS Farm,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,300
+a0lJ9000000blt0IAA,Valley Farm,Scoping,Energy Storage System,TRUE,0,99.9
+a0lJ9000000bltAIAQ,Forsa Energy Denny BESS,Scoping,Energy Storage System,TRUE,0,99.9
+a0lJ9000000bltyIAA,Hazel Solar,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,150
+a0lJ9000000blu3IAA,Shrewsbury Energy,Scoping,Energy Storage System;PV Array (Photo Voltaic/solar),FALSE,0,149.6
