@@ -10,5 +10,5 @@ ECR,Hybrid sites with storage connected (whole-site MW),0.78,can't split battery
 TEC + ECR,Standalone batteries connected (GB total),8.59,best estimate of what's actually connected
 Capacity Market,Batteries contracted for delivery year 2026,3.7,includes new-build not yet running; excludes sites without contracts
 Elexon,Battery-named BM units (generation capacity),5.55,"108 units; lower bound, as many batteries aren't named as such"
-REPD vs ECR,Not operational in REPD but connected battery within 1 km,3.25,132 projects; transmission sites not covered
+REPD vs ECR,Not operational in REPD but connected battery within 1 km,1.16,77 projects; transmission sites not covered
 REPD vs ECR,Connected ECR batteries with no REPD battery nearby,0.67,48 sites; hybrids may sit in REPD under solar/wind

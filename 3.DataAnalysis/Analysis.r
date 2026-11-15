@@ -16,6 +16,7 @@ clean_developer <- function(name) {
     str_detect(name, "^Sandbrook")     ~ "Sandbrook Capital",
     str_detect(name, "^Natpower")      ~ "NatPower",
     str_detect(name, "^Newton Energ")  ~ "Newton Energy",
+    str_detect(name, "^Amp |^Aggregated Micro Power") ~ "AMP Clean Energy",
     TRUE                              ~ name
   )
 }
@@ -23,8 +24,21 @@ clean_developer <- function(name) {
 bats <- read_rds(here("2.DataClean", "bats.rds"))
 dir.create(here("3.DataAnalysis", "plots"), showWarnings = FALSE)
 
+overrides_file <- here("5.Checks", "stage_overrides.csv")
+confirmed <- if (file.exists(overrides_file)) {
+  read_csv(overrides_file, col_types = cols(.default = col_character())) |>
+    filter(str_to_lower(str_trim(confirm)) == "y") |>
+    pull(ref_id)
+} else character()
+
+bats <- bats |>
+  mutate(stage_adjusted = if_else(ref_id %in% confirmed & str_starts(stage, "[34]"),
+                                  "5. Operational", stage))
+
+message(length(confirmed), " projects moved to operational using NESO/DNO connection data")
+
 green <- "#2a7f62"
-source_note <- "Source: DESNZ Renewable Energy Planning Database. Grid-scale projects (1 MW+) only."
+source_note <- "Source: DESNZ Renewable Energy Planning Database (July 2026 extract). Grid-scale projects (1 MW+) only."
 
 live <- bats |>
   filter(str_starts(stage, "[2-5]"), segment == "Grid-scale (1 MW+)")
@@ -46,6 +60,36 @@ p_funnel <- ggplot(funnel, aes(gw, fct_rev(stage))) +
 
 ggsave(here("3.DataAnalysis", "plots", "funnel.png"), p_funnel,
        width = 8, height = 4, dpi = 300)
+
+funnel_both <- bind_rows(
+  live |> group_by(stage) |>
+    summarise(projects = n(), gw = sum(capacity_mw) / 1000) |>
+    mutate(version = "REPD as published"),
+  live |> group_by(stage = stage_adjusted) |>
+    summarise(projects = n(), gw = sum(capacity_mw) / 1000) |>
+    mutate(version = "Adjusted with NESO/DNO connection data")
+) |>
+  mutate(version = fct_inorder(version))
+
+p_funnel_both <- ggplot(funnel_both, aes(gw, fct_rev(stage), fill = version)) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.75) +
+  geom_text(aes(label = paste0(round(gw, 1), " GW")),
+            position = position_dodge(width = 0.8), hjust = -0.1, size = 3) +
+  scale_fill_manual(values = c("#7fbfa5", green)) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(title = "UK battery storage pipeline: REPD vs connection data",
+       subtitle = paste(length(confirmed), "projects moved to operational after checking NESO TEC and DNO registers"),
+       x = "Capacity (GW)", y = NULL, fill = NULL,
+       caption = paste0(source_note,
+                        "\nAdjusted: projects confirmed as connected in the NESO TEC register or DNO Embedded Capacity Registers (Nov 2026).",
+                        "\nConnection registers show ~8.6 GW of standalone batteries connected in total.")) +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+        plot.caption = element_text(size = 8, hjust = 0),
+        plot.caption.position = "plot")
+
+ggsave(here("3.DataAnalysis", "plots", "funnel_adjusted.png"), p_funnel_both,
+       width = 8, height = 5, dpi = 300)
 
 by_region <- live |>
   mutate(region = replace_na(region, "Unknown")) |>
@@ -164,6 +208,7 @@ ggsave(here("3.DataAnalysis", "plots", "developers.png"), p_devs,
        width = 8, height = 6, dpi = 300)
 
 print(funnel)
+print(funnel_both)
 print(segment_counts, n = Inf)
 print(micro_devs)
 print(size_stats)

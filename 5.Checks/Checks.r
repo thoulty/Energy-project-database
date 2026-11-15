@@ -1,12 +1,3 @@
-# Checks the REPD battery data (bats.rds) against four independent sources:
-#   1. NESO TEC register          – transmission-connected projects
-#   2. Embedded Capacity Register – distribution-connected projects (all DNOs)
-#   3. Capacity Market Register   – batteries holding capacity contracts
-#   4. Elexon BM units            – batteries registered to trade on the grid
-#
-# Downloads each source to 5.Checks/raw/ (or reuses a saved copy if the
-# download fails), then writes results to 5.Checks/output/.
-
 library(tidyverse)
 library(here)
 library(jsonlite)
@@ -17,9 +8,6 @@ out <- here("5.Checks", "output")
 dir.create(raw, recursive = TRUE, showWarnings = FALSE)
 dir.create(out, recursive = TRUE, showWarnings = FALSE)
 
-# Helpers -------------------------------------------------------------------------
-
-# Downloads a source and saves it; falls back to the saved copy if the download fails
 fetch <- function(name, expr) {
   path <- file.path(raw, paste0(name, ".csv"))
   df <- tryCatch(expr, error = function(e) {
@@ -38,7 +26,6 @@ fetch <- function(name, expr) {
   NULL
 }
 
-# Finds the first column whose name matches a pattern (names differ between versions)
 find_col <- function(df, pattern, required = TRUE) {
   hit <- names(df)[str_detect(names(df), regex(pattern, ignore_case = TRUE))]
   if (length(hit) == 0) {
@@ -56,8 +43,6 @@ add_result <- function(source, measure, gw, note = "") {
   results[[length(results) + 1]] <<- tibble(source, measure, gw = round(gw, 2), note)
 }
 
-# Download ------------------------------------------------------------------------
-
 tec_raw <- fetch("tec", fromJSON(
   "https://api.neso.energy/api/3/action/datastore_search?resource_id=17becbab-e3e8-473f-b303-3806f43a6a10&limit=50000"
 )$result$records)
@@ -70,7 +55,6 @@ cmr_raw <- fetch("cmr", {
 
 bmu_raw <- fetch("bmu", fromJSON("https://data.elexon.co.uk/bmrs/api/v1/reference/bmunits/all"))
 
-# The ECR has a few possible dataset names, so try each in turn
 ecr_raw <- fetch("ecr", {
   ids <- c("all-dnos-ecrs-combined1", "all-dnos-ecrs-combined",
            "ecr_manual_combine_test", "embedded-capacity-register")
@@ -92,9 +76,6 @@ if (is.null(ecr_raw)) {
           "and save it as 5.Checks/raw/ecr.csv, then re-run.")
 }
 
-# REPD (your data) ----------------------------------------------------------------
-# Great Britain only, so it lines up with the GB-wide sources
-
 bats <- read_rds(here("2.DataClean", "bats.rds")) |>
   filter(is.na(country) | country != "Northern Ireland")
 
@@ -112,8 +93,6 @@ add_result("REPD", "Planning + consented + under construction",
            sum(repd_queue$capacity_mw, na.rm = TRUE) / 1000,
            paste(nrow(repd_queue), "projects"))
 
-# 1. TEC register -----------------------------------------------------------------
-
 tec <- NULL
 if (!is.null(tec_raw)) {
   tec <- tec_raw |>
@@ -122,7 +101,6 @@ if (!is.null(tec_raw)) {
            mw_total     = num(`Cumulative Total Capacity (MW)`),
            id           = coalesce(`Project ID`, `Project Name`),
            battery_only = `Plant Type` == "Energy Storage System") |>
-    # One row per stage of a project, so keep one row per project
     group_by(id) |>
     summarise(name = first(`Project Name`), status = first(`Project Status`),
               plant = first(`Plant Type`), battery_only = first(battery_only),
@@ -149,8 +127,6 @@ if (!is.null(tec_raw)) {
 
   write_csv(tec, file.path(out, "tec_batteries.csv"))
 }
-
-# 2. Embedded Capacity Register ---------------------------------------------------
 
 ecr_conn <- NULL
 if (!is.null(ecr_raw)) {
@@ -202,14 +178,11 @@ if (!is.null(ecr_raw)) {
   write_csv(ecr_batt, file.path(out, "ecr_batteries.csv"))
 }
 
-# 3. Capacity Market Register -----------------------------------------------------
-
 if (!is.null(cmr_raw)) {
   cmr <- cmr_raw |>
     filter(`Primary Fuel of Component` == "Storage - Battery") |>
     mutate(mw = num(`Connection or DSR Capacity`))
 
-  # A component can be bid into several auctions for the same year, so count it once per year
   cmr_by_year <- cmr |>
     distinct(`Delivery Year`, `Component ID`, .keep_all = TRUE) |>
     group_by(`Delivery Year`) |>
@@ -224,9 +197,6 @@ if (!is.null(cmr_raw)) {
                this_year$gw, "includes new-build not yet running; excludes sites without contracts")
   }
 }
-
-# 4. Elexon BM units --------------------------------------------------------------
-# fuelType doesn't label batteries clearly, so pick them out by name (a lower bound)
 
 if (!is.null(bmu_raw)) {
   bmu <- bmu_raw |> mutate(mw = num(generationCapacity))
@@ -247,8 +217,6 @@ if (!is.null(bmu_raw)) {
   write_csv(bmu_batt, file.path(out, "bmu_batteries.csv"))
 }
 
-# Site-by-site check against the ECR ----------------------------------------------
-
 if (!is.null(ecr_conn) && any(!is.na(ecr_conn$x))) {
   ecr_sf <- ecr_conn |>
     filter(!is.na(x), !is.na(y), between(x, 0, 700000), between(y, 0, 1300000)) |>
@@ -259,7 +227,6 @@ if (!is.null(ecr_conn) && any(!is.na(ecr_conn$x))) {
            between(x_fixed, 0, 700000), between(y_fixed, 0, 1300000)) |>
     st_as_sf(coords = c("x_fixed", "y_fixed"), crs = 27700)
 
-  # REPD projects not yet operational with a connected ECR battery within 1 km
   likely_built <- repd_sf |>
     filter(str_detect(stage, "Consented|Under construction")) |>
     st_join(ecr_sf |> select(ecr_site = site, ecr_mw = mw),
@@ -267,6 +234,8 @@ if (!is.null(ecr_conn) && any(!is.na(ecr_conn$x))) {
     st_drop_geometry() |>
     group_by(ref_id, site_name, operator_or_applicant, stage, capacity_mw) |>
     summarise(ecr_site = first(ecr_site), ecr_mw = sum(ecr_mw, na.rm = TRUE), .groups = "drop") |>
+    filter(ecr_mw >= 0.5 * capacity_mw) |>
+    distinct(ecr_site, .keep_all = TRUE) |>
     arrange(desc(capacity_mw))
 
   message("\n=== REPD projects not marked operational, but with a connected battery within 1 km")
@@ -277,7 +246,6 @@ if (!is.null(ecr_conn) && any(!is.na(ecr_conn$x))) {
              paste(nrow(likely_built), "projects; transmission sites not covered"))
   write_csv(likely_built, file.path(out, "repd_likely_operational.csv"))
 
-  # Connected ECR batteries (1 MW+) with no REPD battery project within 1 km
   missing_from_repd <- ecr_sf |>
     filter(mw >= 1) |>
     st_join(repd_sf |> select(ref_id), join = st_is_within_distance, dist = 1000) |>
@@ -297,7 +265,54 @@ if (!is.null(ecr_conn) && any(!is.na(ecr_conn$x))) {
   message("\n!! Skipped the site-by-site check: no ECR data with coordinates.")
 }
 
-# Summary -------------------------------------------------------------------------
+repd_not_op <- bats |>
+  filter(str_detect(stage, "Consented|Under construction")) |>
+  select(ref_id, site_name, stage, capacity_mw)
+
+cand_list <- list()
+
+if (!is.null(tec)) {
+  generic <- "\\b(battery|batteries|energy|storage|bess|bes|system|facility|substation|tertiary|connection|zenobe|alcemi|sse|phase|solar|development|project|power|station|kv|mw)\\b"
+
+  cand_list$tec <- tec |>
+    filter(battery_only, status == "Built", mw_connected > 0) |>
+    mutate(key = name |> str_to_lower() |> str_remove_all("[^a-z ]") |>
+             str_remove_all(generic) |> str_squish() |> word(1)) |>
+    filter(!is.na(key), nchar(key) >= 4) |>
+    cross_join(repd_not_op) |>
+    filter(str_detect(str_to_lower(site_name), paste0("\\b", key, "\\b"))) |>
+    transmute(ref_id, site_name, stage, capacity_mw, evidence = "TEC Built",
+              matched_to = name, matched_mw = mw_connected) |>
+    filter(between(matched_mw / capacity_mw, 0.6, 1.6))
+}
+
+if (exists("likely_built")) {
+  cand_list$ecr <- likely_built |>
+    transmute(ref_id, site_name, stage, capacity_mw, evidence = "ECR connected",
+              matched_to = ecr_site, matched_mw = ecr_mw)
+}
+
+candidates <- bind_rows(cand_list)
+if (nrow(candidates) > 0) {
+  candidates <- candidates |>
+    group_by(ref_id) |>
+    summarise(across(c(site_name, stage, capacity_mw), first),
+              evidence   = paste(unique(evidence), collapse = " + "),
+              matched_to = paste(unique(matched_to), collapse = "; "),
+              matched_mw = max(matched_mw), .groups = "drop") |>
+    arrange(desc(capacity_mw)) |>
+    mutate(confirm = "")
+
+  write_csv(candidates, file.path(out, "stage_candidates.csv"))
+  message("\n=== ", nrow(candidates), " stage-adjustment candidates (",
+          round(sum(candidates$capacity_mw, na.rm = TRUE) / 1000, 2),
+          " GW) saved to 5.Checks/output/stage_candidates.csv")
+  print(head(candidates, 20))
+
+  if (!file.exists(here("5.Checks", "stage_overrides.csv"))) {
+    message("Next: copy it to 5.Checks/stage_overrides.csv and mark correct matches with 'y'.")
+  }
+}
 
 summary_tbl <- bind_rows(results)
 message("\n==================== SUMMARY (GW) ====================")
